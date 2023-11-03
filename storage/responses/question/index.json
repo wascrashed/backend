@@ -1,0 +1,21 @@
+{
+    "success": true,
+    "message": "Список всех вопросов и ответов",
+    "data": [
+        {
+            "id": 1,
+            "question": "question",
+            "answer": "answer"
+        },
+        {
+            "id": 2,
+            "question": "question",
+            "answer": "answer"
+        },
+        {
+            "id": 3,
+            "question": "question",
+            "answer": "answer"
+        }
+    ]
+}

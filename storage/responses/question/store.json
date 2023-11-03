@@ -1,0 +1,12 @@
+{
+    "question":{
+        "ru":"Вопрос",
+        "en":"question",
+        "hy": "asdasd"
+    },
+    "answer":{
+        "ru":"ответ",
+        "en":"answer",
+        "hy": "asdasd"
+    }
+}

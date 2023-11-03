@@ -1,0 +1,20 @@
+{
+    "success": true,
+    "message": "Searchable field list",
+    "data": [
+        {
+            "id": 1,
+            "model_field_id": {
+                "id": 1,
+                "name": "attributable_type",
+                "slug": "attributable_type"
+            },
+            "searchable_model_id": {
+                "id": 89,
+                "priority": 920,
+                "count": 2332186
+            },
+            "priority": 119732
+        }
+    ]
+}

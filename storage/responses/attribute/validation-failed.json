@@ -1,0 +1,17 @@
+{
+    "message": "The name field is required. (and 3 more errors)",
+    "errors": {
+        "name": [
+            "The name field is required."
+        ],
+        "name.ru": [
+            "The name.ru field is required."
+        ],
+        "name.en": [
+            "The name.en field is required."
+        ],
+        "name.hy": [
+            "The name.hy field is required."
+        ]
+    }
+}

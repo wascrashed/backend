@@ -1,0 +1,21 @@
+{
+    "success": true,
+    "message": "Company client updated",
+    "data": {
+        "id": 1,
+        "name": "Name ru",
+        "description": "Description ru",
+        "phone": "+123 123 12 123 12",
+        "marketing_phone": "+32 123 12 12312",
+        "email": "email@mail.com",
+        "slug": "eius-dolores-voluptate-sunt-quam-itaque",
+        "logo": null,
+        "socials": {
+            "website": "https://some-link.com",
+            "facebook": "https://facebook.com/somuser",
+            "instagram": "https://instagram.com/someuser",
+            "whatsapp": null,
+            "viber": null
+        }
+    }
+}

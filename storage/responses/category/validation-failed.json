@@ -1,0 +1,11 @@
+{
+    "message": "The description field is required.",
+    "errors": {
+        "name": [
+            "The phone field is required."
+        ],
+        "slug": [
+            "The slug field is required."
+        ]
+    }
+}

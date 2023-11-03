@@ -1,0 +1,483 @@
+{
+    "success": true,
+    "message": "Список рассылок",
+    "data": [
+        {
+            "id": 1,
+            "audience": {
+                "id": 7,
+                "name": "Albin Crist",
+                "gender": "all",
+                "age": {
+                    "max": 1,
+                    "min": 91169594
+                }
+            },
+            "targetable": {
+                "id": 15,
+                "name": {
+                    "en": "et",
+                    "hy": "rerum",
+                    "ru": "qui"
+                },
+                "description": null,
+                "type": "services",
+                "inn": "19402381",
+                "director": {
+                    "last_name": "Jast",
+                    "first_name": "Tia"
+                },
+                "phone": "540-393-7142",
+                "marketing_phone": null,
+                "email": "powlowski.torrey@herman.com",
+                "registered_at": "1981-11-01T22:20:39.000000Z",
+                "slug": "qui-est-deserunt-minus-ut",
+                "parent_id": 13,
+                "status": "active",
+                "legal_entity": 1,
+                "user_id": 2,
+                "socials": {
+                    "website": null,
+                    "facebook": null,
+                    "instagram": null,
+                    "whatsapp": null,
+                    "viber": null
+                },
+                "tariff": null,
+                "balance": null,
+                "rating": null,
+                "created_at": "2023-07-27T15:42:34.000000Z",
+                "updated_at": "2023-07-27T15:42:34.000000Z"
+            },
+            "name": "Myriam Green",
+            "link": "https://www.walter.org/aut-quo-quis-quia-expedita-dolor-ea",
+            "duration": -7,
+            "status": "new",
+            "views": 59881598,
+            "started_at": "2023-07-27-07-2023-15-42-43",
+            "finished_at": "2023-07-27-07-2023-15-42-43"
+        },
+        {
+            "id": 2,
+            "audience": {
+                "id": 1,
+                "name": "Scot Schulist",
+                "gender": "f",
+                "age": {
+                    "max": 1,
+                    "min": 16953
+                }
+            },
+            "targetable": {
+                "id": 30,
+                "name": {
+                    "en": "excepturi"
+                },
+                "amount": 2146,
+                "price": 4,
+                "type": "gift_card",
+                "active": false,
+                "color": "#b239e4",
+                "size": 947509,
+                "before_declined": 0,
+                "brand_id": 21,
+                "category_id": 151,
+                "accepted_at": null,
+                "status": "need_update",
+                "update_count": 0,
+                "created_at": "2023-07-27T15:42:40.000000Z",
+                "updated_at": "2023-07-27T15:42:40.000000Z"
+            },
+            "name": "Mercedes Cummerata",
+            "link": "http://www.vandervort.com/repellat-voluptatem-aliquam-et-odio-quia-est.html",
+            "duration": -19,
+            "status": "rejected",
+            "views": 189651846,
+            "started_at": "2023-07-27-07-2023-15-42-43",
+            "finished_at": "2023-07-27-07-2023-15-42-43"
+        },
+        {
+            "id": 3,
+            "audience": {
+                "id": 2,
+                "name": "Celine Runte",
+                "gender": "f",
+                "age": {
+                    "max": 8,
+                    "min": 28250713
+                }
+            },
+            "targetable": {
+                "id": 44,
+                "name": {
+                    "en": "incidunt",
+                    "hy": "accusantium",
+                    "ru": "velit"
+                },
+                "description": null,
+                "type": "sales",
+                "inn": "15999781",
+                "director": {
+                    "last_name": "Hamill",
+                    "first_name": "Tina"
+                },
+                "phone": "1-681-945-1728",
+                "marketing_phone": null,
+                "email": "barney.mante@hotmail.com",
+                "registered_at": "2003-12-06T22:09:54.000000Z",
+                "slug": "rerum-ea-officia-rerum-officiis",
+                "parent_id": 43,
+                "status": "new",
+                "legal_entity": 1,
+                "user_id": 3,
+                "socials": {
+                    "website": null,
+                    "facebook": null,
+                    "instagram": null,
+                    "whatsapp": null,
+                    "viber": null
+                },
+                "tariff": null,
+                "balance": null,
+                "rating": null,
+                "created_at": "2023-07-27T15:42:35.000000Z",
+                "updated_at": "2023-07-27T15:42:35.000000Z"
+            },
+            "name": "Sandy Toy IV",
+            "link": "http://www.roberts.info/",
+            "duration": -10,
+            "status": "rejected",
+            "views": 293615,
+            "started_at": "2023-07-27-07-2023-15-42-43",
+            "finished_at": "2023-07-27-07-2023-15-42-43"
+        },
+        {
+            "id": 4,
+            "audience": {
+                "id": 8,
+                "name": "Emmett Mosciski",
+                "gender": "all",
+                "age": {
+                    "max": 7680,
+                    "min": 94567
+                }
+            },
+            "targetable": {
+                "id": 51,
+                "name": {
+                    "en": "et"
+                },
+                "amount": 4590625,
+                "price": 661810,
+                "type": "default",
+                "active": false,
+                "color": "#292b90",
+                "size": 405874599,
+                "before_declined": 1,
+                "brand_id": 16,
+                "category_id": 84,
+                "accepted_at": "2023-07-27T15:42:40.000000Z",
+                "status": "waiting",
+                "update_count": 0,
+                "created_at": "2023-07-27T15:42:40.000000Z",
+                "updated_at": "2023-07-27T15:42:40.000000Z"
+            },
+            "name": "Sammy Thiel",
+            "link": "https://www.hansen.com/qui-dolores-delectus-sunt-sed-consectetur",
+            "duration": -22,
+            "status": "in-progress",
+            "views": 487,
+            "started_at": "2023-07-27-07-2023-15-42-43",
+            "finished_at": "2023-07-27-07-2023-15-42-43"
+        },
+        {
+            "id": 5,
+            "audience": {
+                "id": 1,
+                "name": "Scot Schulist",
+                "gender": "f",
+                "age": {
+                    "max": 1,
+                    "min": 16953
+                }
+            },
+            "targetable": {
+                "id": 28,
+                "name": {
+                    "en": "eos",
+                    "hy": "vitae",
+                    "ru": "impedit"
+                },
+                "description": null,
+                "type": "sales",
+                "inn": "16268778",
+                "director": {
+                    "last_name": "Hamill",
+                    "first_name": "Kayla"
+                },
+                "phone": "952-629-6931",
+                "marketing_phone": null,
+                "email": "hank.lebsack@hotmail.com",
+                "registered_at": "2002-07-31T19:05:35.000000Z",
+                "slug": "placeat-et-id-minima-facilis",
+                "parent_id": 25,
+                "status": "moderation",
+                "legal_entity": 1,
+                "user_id": 6,
+                "socials": {
+                    "website": null,
+                    "facebook": null,
+                    "instagram": null,
+                    "whatsapp": null,
+                    "viber": null
+                },
+                "tariff": null,
+                "balance": null,
+                "rating": null,
+                "created_at": "2023-07-27T15:42:35.000000Z",
+                "updated_at": "2023-07-27T15:42:35.000000Z"
+            },
+            "name": "Amani Strosin",
+            "link": "http://mosciski.com/vitae-accusamus-officia-voluptatem-reprehenderit-qui-sed-voluptas.html",
+            "duration": -17,
+            "status": "in-progress",
+            "views": 91880,
+            "started_at": "2023-07-27-07-2023-15-42-43",
+            "finished_at": "2023-07-27-07-2023-15-42-43"
+        },
+        {
+            "id": 6,
+            "audience": {
+                "id": 2,
+                "name": "Celine Runte",
+                "gender": "f",
+                "age": {
+                    "max": 8,
+                    "min": 28250713
+                }
+            },
+            "targetable": {
+                "id": 52,
+                "name": {
+                    "en": "libero"
+                },
+                "amount": 0,
+                "price": 37991,
+                "type": "default",
+                "active": false,
+                "color": "#687a32",
+                "size": 397203,
+                "before_declined": 1,
+                "brand_id": 5,
+                "category_id": 19,
+                "accepted_at": "2023-07-27T15:42:40.000000Z",
+                "status": "confirmed",
+                "update_count": 0,
+                "created_at": "2023-07-27T15:42:40.000000Z",
+                "updated_at": "2023-07-27T15:42:40.000000Z"
+            },
+            "name": "Daniella VonRueden",
+            "link": "http://kreiger.info/",
+            "duration": -8,
+            "status": "accepted",
+            "views": 7331,
+            "started_at": "2023-07-27-07-2023-15-42-43",
+            "finished_at": "2023-07-27-07-2023-15-42-43"
+        },
+        {
+            "id": 7,
+            "audience": {
+                "id": 3,
+                "name": "Leanne Medhurst II",
+                "gender": "all",
+                "age": {
+                    "max": 9001,
+                    "min": 8186
+                }
+            },
+            "targetable": {
+                "id": 51,
+                "name": {
+                    "en": "et"
+                },
+                "amount": 4590625,
+                "price": 661810,
+                "type": "default",
+                "active": false,
+                "color": "#292b90",
+                "size": 405874599,
+                "before_declined": 1,
+                "brand_id": 16,
+                "category_id": 84,
+                "accepted_at": "2023-07-27T15:42:40.000000Z",
+                "status": "waiting",
+                "update_count": 0,
+                "created_at": "2023-07-27T15:42:40.000000Z",
+                "updated_at": "2023-07-27T15:42:40.000000Z"
+            },
+            "name": "Rosalia Wunsch",
+            "link": "http://www.mcdermott.net/ipsa-minima-corporis-ut.html",
+            "duration": -22,
+            "status": "accepted",
+            "views": 486326,
+            "started_at": "2023-07-27-07-2023-15-42-43",
+            "finished_at": "2023-07-27-07-2023-15-42-43"
+        },
+        {
+            "id": 8,
+            "audience": {
+                "id": 10,
+                "name": "Prof. Green Lemke Jr.",
+                "gender": "all",
+                "age": {
+                    "max": 682301927,
+                    "min": 6143
+                }
+            },
+            "targetable": {
+                "id": 79,
+                "name": {
+                    "en": "corporis"
+                },
+                "amount": 0,
+                "price": 10821233,
+                "type": "gift_card",
+                "active": true,
+                "color": "#69653a",
+                "size": 1772248,
+                "before_declined": 0,
+                "brand_id": 3,
+                "category_id": 76,
+                "accepted_at": null,
+                "status": "need_update",
+                "update_count": 0,
+                "created_at": "2023-07-27T15:42:41.000000Z",
+                "updated_at": "2023-07-27T15:42:41.000000Z"
+            },
+            "name": "Miss Kenyatta Cartwright MD",
+            "link": "http://www.fadel.com/",
+            "duration": -7,
+            "status": "accepted",
+            "views": 4528,
+            "started_at": "2023-07-27-07-2023-15-42-43",
+            "finished_at": "2023-07-27-07-2023-15-42-43"
+        },
+        {
+            "id": 9,
+            "audience": {
+                "id": 9,
+                "name": "Amya Corwin",
+                "gender": "all",
+                "age": {
+                    "max": 784069,
+                    "min": 73835018
+                }
+            },
+            "targetable": {
+                "id": 32,
+                "name": {
+                    "en": "minima",
+                    "hy": "et",
+                    "ru": "aspernatur"
+                },
+                "company_id": 11,
+                "country_id": 48,
+                "date": "1988-09-15",
+                "description": {
+                    "en": "Sed veritatis magni et. Nihil autem non quisquam.",
+                    "hy": "Eaque quasi nihil labore mollitia. Quibusdam consequuntur commodi doloribus quaerat est. Eum mollitia illum et quod rerum itaque sit dolore.",
+                    "ru": "Dolorum quia impedit rerum architecto. Nemo at aut fugiat eaque. Vitae ratione minima est."
+                },
+                "status": "disabled",
+                "created_at": "2023-07-27T15:42:40.000000Z",
+                "updated_at": "2023-07-27T15:42:40.000000Z",
+                "deleted_at": null
+            },
+            "name": "Randy Gerhold DVM",
+            "link": "https://kessler.com/voluptatum-commodi-doloremque-quaerat-qui-repudiandae-assumenda-et.html",
+            "duration": -12,
+            "status": "archived",
+            "views": 415,
+            "started_at": "2023-07-27-07-2023-15-42-43",
+            "finished_at": "2023-07-27-07-2023-15-42-43"
+        },
+        {
+            "id": 10,
+            "audience": {
+                "id": 9,
+                "name": "Amya Corwin",
+                "gender": "all",
+                "age": {
+                    "max": 784069,
+                    "min": 73835018
+                }
+            },
+            "targetable": {
+                "id": 48,
+                "name": {
+                    "en": "consequuntur",
+                    "hy": "officia",
+                    "ru": "id"
+                },
+                "company_id": 54,
+                "country_id": 114,
+                "date": "2003-06-23",
+                "description": {
+                    "en": "Voluptatem labore rerum optio. Similique ut magnam sequi minima praesentium omnis. Odit dolorem cum molestias atque quia occaecati sit tempore.",
+                    "hy": "Illum facilis molestias minima illo exercitationem sint rerum modi. Aut non voluptates nihil eveniet inventore. Est quo accusamus libero officia repellendus magnam.",
+                    "ru": "Labore modi culpa officiis quia laudantium aut. Debitis cum aut enim voluptatibus voluptate aspernatur voluptatem. Facere quas qui dolores quis qui laudantium ducimus."
+                },
+                "status": "accepted",
+                "created_at": "2023-07-27T15:42:40.000000Z",
+                "updated_at": "2023-07-27T15:42:40.000000Z",
+                "deleted_at": null
+            },
+            "name": "Sabryna Sanford",
+            "link": "http://goldner.com/facilis-amet-ut-et-doloremque",
+            "duration": -7,
+            "status": "in-progress",
+            "views": 8436,
+            "started_at": "2023-07-27-07-2023-15-42-43",
+            "finished_at": "2023-07-27-07-2023-15-42-43"
+        },
+        {
+            "id": 12,
+            "audience": {
+                "id": 1,
+                "name": "Scot Schulist",
+                "gender": "f",
+                "age": {
+                    "max": 1,
+                    "min": 16953
+                }
+            },
+            "targetable": {
+                "id": 1,
+                "name": {
+                    "en": "aut"
+                },
+                "amount": 0,
+                "price": 377,
+                "type": "default",
+                "active": true,
+                "color": "#c4fc36",
+                "size": 7045,
+                "before_declined": 0,
+                "brand_id": 20,
+                "category_id": 54,
+                "accepted_at": null,
+                "status": "rejected",
+                "update_count": 0,
+                "created_at": "2023-07-27T15:42:40.000000Z",
+                "updated_at": "2023-07-27T15:42:40.000000Z"
+            },
+            "name": "Test",
+            "link": "http://localhost",
+            "duration": -5,
+            "status": "new",
+            "views": 0,
+            "started_at": "2023-07-27-07-2023-14-13-53",
+            "finished_at": "2023-07-27-07-2023-14-13-53"
+        }
+    ]
+}

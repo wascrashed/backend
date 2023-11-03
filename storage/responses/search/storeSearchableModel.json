@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "message": "Searchable model created",
+    "data": {
+        "id": 108,
+        "model_id": {
+            "id": 1,
+            "model": "App\\Tbuy\\Country\\Models\\Country",
+            "label": "Country",
+            "path": "/var/www/app/Tbuy/Country/Models/Country.php"
+        },
+        "priority": 1,
+        "count": 1
+    }
+}

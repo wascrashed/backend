@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "message": "Template created",
+    "data": {
+        "id": 21,
+        "name": "Название",
+        "banner_id": {
+            "id": 1,
+            "name": "corrupti",
+            "content": {
+                "ex": "cum",
+                "ut": "assumenda",
+                "repellat": "et"
+            }
+        }
+    }
+}

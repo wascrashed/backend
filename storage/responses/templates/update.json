@@ -1,0 +1,17 @@
+{
+    "success": true,
+    "message": "Templates updated",
+    "data": {
+        "id": 1,
+        "name": "Название",
+        "banner_id": {
+            "id": 1,
+            "name": "corrupti",
+            "content": {
+                "ex": "cum",
+                "ut": "assumenda",
+                "repellat": "et"
+            }
+        }
+    }
+}

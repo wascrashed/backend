@@ -1,0 +1,21 @@
+{
+    "success": true,
+    "message": "Locale list",
+    "data": [
+        {
+            "id": 1,
+            "name": "Английский",
+            "locale": "en"
+        },
+        {
+            "id": 2,
+            "name": "Армянский",
+            "locale": "hy"
+        },
+        {
+            "id": 3,
+            "name": "Русский",
+            "locale": "ru"
+        }
+    ]
+}

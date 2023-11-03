@@ -1,0 +1,26 @@
+{
+    "message": "The name.ru field is required. (and 6 more errors)",
+    "errors": {
+        "name.ru": [
+            "The name.ru field is required."
+        ],
+        "name.en": [
+            "The name.en field is required."
+        ],
+        "name.hy": [
+            "The name.hy field is required."
+        ],
+        "email": [
+            "The email field is required."
+        ],
+        "director.first_name": [
+            "The director.first name field is required."
+        ],
+        "director.last_name": [
+            "The director.last name field is required."
+        ],
+        "phone": [
+            "The phone field is required."
+        ]
+    }
+}

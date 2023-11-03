@@ -1,0 +1,20 @@
+{
+    "success": true,
+    "message": "Список сотрудников компании: ",
+    "data": [
+        {
+            "id": 6,
+            "name": "Admin Adminov",
+            "email": "gleb@admin.com",
+            "balance": "100000.00",
+            "created_at": "2023-08-02T09:23:23.000000Z"
+        },
+        {
+            "id": 8,
+            "name": "Admin Adminov",
+            "email": "jasur@admin.com",
+            "balance": "100000.00",
+            "created_at": "2023-08-02T09:23:24.000000Z"
+        }
+    ]
+}

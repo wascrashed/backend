@@ -1,0 +1,8 @@
+{
+    "success": true,
+    "message": "Attribute updated",
+    "data": {
+        "id": 1,
+        "name": "Name"
+    }
+}

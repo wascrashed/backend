@@ -1,0 +1,28 @@
+{
+    "success": true,
+    "message": "Тариф обновлен",
+    "data": {
+        "id": 14,
+        "name": "Name",
+        "description": "Description",
+        "privileges": [
+            "Privilege 1",
+            "Privilege 2",
+            "Privilege 3"
+        ],
+        "price": [
+            {
+                "price": 1000,
+                "discount_price": 500,
+                "months": 1
+            },
+            {
+                "price": 1000,
+                "discount_price": null,
+                "months": 3
+            }
+        ],
+        "score": 1,
+        "percent": 100
+    }
+}

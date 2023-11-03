@@ -1,0 +1,11 @@
+{
+    "message": "The status field is required. (and 1 more error)",
+    "errors": {
+        "status": [
+            "The status field is required."
+        ],
+        "reason_id": [
+            "The reason_id field is required when status is rejected."
+        ]
+    }
+}

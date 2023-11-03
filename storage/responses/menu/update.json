@@ -1,0 +1,10 @@
+{
+    "success": true,
+    "message": "Menu updated",
+    "data": {
+        "id": 11,
+        "name": "Название",
+        "slug": "nazvanie",
+        "image": "http://tbuy.lc/storage/8/480.jpeg"
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "message": "The locale field is required.",
+    "errors": {
+        "locale": [
+            "The locale field is required."
+        ]
+    }
+}

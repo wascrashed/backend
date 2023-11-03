@@ -1,0 +1,8 @@
+{
+    "message": "The score field must not be greater than 5.",
+    "errors": {
+        "score": [
+            "The score field must not be greater than 5."
+        ]
+    }
+}

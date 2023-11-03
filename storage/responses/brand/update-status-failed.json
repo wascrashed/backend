@@ -1,0 +1,11 @@
+{
+    "message": "The status field is required. (and 1 more error)",
+    "errors": {
+        "status": [
+            "The status field is required."
+        ],
+        "comment": [
+            "The comment field is required when status is rejected."
+        ]
+    }
+}

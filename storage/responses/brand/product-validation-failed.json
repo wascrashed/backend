@@ -1,0 +1,8 @@
+{
+    "message": "The product field must be present.",
+    "errors": {
+        "product": [
+            "The product field must be present."
+        ]
+    }
+}

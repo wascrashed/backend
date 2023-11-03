@@ -1,0 +1,8 @@
+{
+    "message": "The token field is required.",
+    "errors": {
+        "token": [
+            "The token field is required."
+        ]
+    }
+}

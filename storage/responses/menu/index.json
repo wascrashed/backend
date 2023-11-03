@@ -1,0 +1,40 @@
+{
+    "success": true,
+    "message": "Menu list",
+    "data": [
+        {
+            "id": 11,
+            "name": "quisquam",
+            "slug": "quisquam",
+            "image": "http://tbuy.lc/storage/8/480.jpeg",
+            "children": [
+                {
+                    "id": 12,
+                    "name": "et",
+                    "slug": "et",
+                    "image": "http://tbuy.lc/storage/9/480.jpeg"
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "eum",
+            "slug": "eum",
+            "image": "http://tbuy.lc/storage/12/480.jpeg",
+            "children": [
+                {
+                    "id": 16,
+                    "name": "unde",
+                    "slug": "unde",
+                    "image": "http://tbuy.lc/storage/13/480.jpeg"
+                },
+                {
+                    "id": 17,
+                    "name": "eligendi",
+                    "slug": "eligendi",
+                    "image": "http://tbuy.lc/storage/14/480.jpeg"
+                }
+            ]
+        }
+    ]
+}

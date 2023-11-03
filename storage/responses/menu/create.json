@@ -1,0 +1,10 @@
+{
+    "success": true,
+    "message": "Menu created",
+    "data": {
+        "id": 21,
+        "name": "name",
+        "slug": "name",
+        "image": "http://tbuy.lc/storage/18/Screenshot-from-2023-06-22-16-54-49.png"
+    }
+}

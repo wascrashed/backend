@@ -1,0 +1,120 @@
+{
+    "success": true,
+    "message": "Полная информация о продукте",
+    "data": {
+        "id": 1,
+        "name": "qui",
+        "name_extended": "qui",
+        "description": "Ratione commodi repellendus reiciendis sunt est iure. Voluptate rerum et voluptates laboriosam occaecati voluptas et. Ab assumenda a laboriosam. Et fugit et quia eveniet fugiat.",
+        "amount": 10,
+        "type": "default",
+        "active": true,
+        "color": "#fa119f",
+        "size": 262437698,
+        "status": "waiting",
+        "price": 1000,
+        "update_count": 1,
+        "brand": {
+            "id": 1,
+            "name": "doloremque",
+            "name_extended": "doloremque",
+            "date": "1976-02-11",
+            "description": "Dicta tenetur perferendis et sunt eligendi ipsam. Id non quam error neque occaecati et occaecati.",
+            "company": {
+                "id": 2,
+                "name": "aliquid",
+                "description": "",
+                "inn": "94268623",
+                "phone": "270-428-5498",
+                "marketing_phone": null,
+                "email": "darren96@gmail.com",
+                "slug": "ratione-qui-ea-aut-sit-laudantium-veniam-quia-eos",
+                "legal_entity": 0,
+                "type": "sales",
+                "status": "active",
+                "socials": {
+                    "website": null,
+                    "facebook": null,
+                    "instagram": null,
+                    "whatsapp": null,
+                    "viber": null
+                },
+                "documents": [],
+                "tariff": null,
+                "tariff_expired_at": null
+            },
+            "country": {
+                "id": 80,
+                "name": "Gambia",
+                "code": "GM"
+            },
+            "attributes": [],
+            "logo": null,
+            "status": "rejected",
+            "created_at": "2023-08-07T11:28:31.000000Z",
+            "accepted_at": null
+        },
+        "category": {
+            "id": 1,
+            "name": "aut",
+            "slug": "culpa-aut-sunt-recusandae-est-iste-odit"
+        },
+        "images": [],
+        "mainImage": null,
+        "attributes": [
+            {
+                "id": 2,
+                "name": "et",
+                "value": {
+                    "id": 7,
+                    "name": "est"
+                },
+                "is_name_part": false
+            },
+            {
+                "id": 3,
+                "name": "et",
+                "value": {
+                    "id": 13,
+                    "name": "molestiae"
+                },
+                "is_name_part": false
+            },
+            {
+                "id": 1,
+                "name": "fuga",
+                "value": {
+                    "id": 2,
+                    "name": "nisi"
+                },
+                "is_name_part": false
+            },
+            {
+                "id": 3,
+                "name": "et",
+                "value": {
+                    "id": 12,
+                    "name": "rerum"
+                },
+                "is_name_part": false
+            },
+            {
+                "id": 1,
+                "name": "fuga",
+                "value": {
+                    "id": 4,
+                    "name": "nisi"
+                },
+                "is_name_part": false
+            }
+        ],
+        "accepted_at": null,
+        "created_at": "2023-08-07T11:30:56.000000Z",
+        "rejections": [],
+        "visible_fields": [
+            "price",
+            "description",
+            "category_id"
+        ]
+    }
+}

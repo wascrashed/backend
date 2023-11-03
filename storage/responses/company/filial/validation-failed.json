@@ -1,0 +1,35 @@
+{
+    "message": "The name.en field is required. (and 9 more errors)",
+    "errors": {
+        "name.en": [
+            "The name.en field is required."
+        ],
+        "name.hy": [
+            "The name.hy field is required."
+        ],
+        "name.ru": [
+            "The name.ru field is required."
+        ],
+        "phone": [
+            "The phone field is required."
+        ],
+        "coordinates.latitude": [
+            "The coordinates.latitude field is required."
+        ],
+        "coordinates.longitude": [
+            "The coordinates.longitude field is required."
+        ],
+        "is_main": [
+            "The is main field is required."
+        ],
+        "company_id": [
+            "The company id field is required."
+        ],
+        "community_id": [
+            "The community id field is required."
+        ],
+        "region_id": [
+            "The region id field is required."
+        ]
+    }
+}

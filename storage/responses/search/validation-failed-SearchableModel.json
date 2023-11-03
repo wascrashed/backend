@@ -1,0 +1,14 @@
+{
+    "message": "The description field is required.",
+    "errors": {
+        "model_id": [
+            "The phone field is required."
+        ],
+        "priority": [
+            "The slug field is required."
+        ],
+        "count": [
+            "The slug field is required."
+        ]
+    }
+}

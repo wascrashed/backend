@@ -1,0 +1,106 @@
+{
+    "success": true,
+    "message": "Attribute list",
+    "data": [
+        {
+            "id": 1,
+            "name": {
+                "ru": "Name",
+                "en": "Name",
+                "hy": "Name"
+            },
+            "values": [
+                {
+                    "id": 1,
+                    "name": {
+                        "ru": "non",
+                        "en": "repudiandae",
+                        "hy": "dolores"
+                    }
+                },
+                {
+                    "id": 2,
+                    "name": {
+                        "ru": "non",
+                        "en": "consequatur",
+                        "hy": "dolor"
+                    }
+                },
+                {
+                    "id": 3,
+                    "name": {
+                        "ru": "qui",
+                        "en": "itaque",
+                        "hy": "commodi"
+                    }
+                },
+                {
+                    "id": 4,
+                    "name": {
+                        "ru": "ducimus",
+                        "en": "nesciunt",
+                        "hy": "tenetur"
+                    }
+                },
+                {
+                    "id": 5,
+                    "name": {
+                        "ru": "consequuntur",
+                        "en": "fuga",
+                        "hy": "ducimus"
+                    }
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": {
+                "ru": "fugiat",
+                "en": "voluptatem",
+                "hy": "repellendus"
+            },
+            "values": [
+                {
+                    "id": 11,
+                    "name": {
+                        "ru": "dolores",
+                        "en": "tempora",
+                        "hy": "aliquam"
+                    }
+                },
+                {
+                    "id": 12,
+                    "name": {
+                        "ru": "accusantium",
+                        "en": "est",
+                        "hy": "voluptates"
+                    }
+                },
+                {
+                    "id": 13,
+                    "name": {
+                        "ru": "consequatur",
+                        "en": "dolorem",
+                        "hy": "tempore"
+                    }
+                },
+                {
+                    "id": 14,
+                    "name": {
+                        "ru": "nihil",
+                        "en": "repellat",
+                        "hy": "qui"
+                    }
+                },
+                {
+                    "id": 15,
+                    "name": {
+                        "ru": "ea",
+                        "en": "at",
+                        "hy": "repellendus"
+                    }
+                }
+            ]
+        }
+    ]
+}

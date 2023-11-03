@@ -1,0 +1,8 @@
+{
+    "message": "The category field must be present.",
+    "errors": {
+        "category": [
+            "The category field must be present."
+        ]
+    }
+}

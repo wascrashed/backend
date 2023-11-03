@@ -1,0 +1,84 @@
+{
+    "success": true,
+    "message": "Rejection list",
+    "data": [
+        {
+            "id": 1,
+            "user": {
+                "id": 6,
+                "name": "Admin Adminov",
+                "email": "gleb@admin.com",
+                "balance": "100000.00",
+                "created_at": "2023-07-30T09:10:44.000000Z"
+            },
+            "target": {
+                "id": 13,
+                "name": "qui",
+                "description": "",
+                "inn": "71505849",
+                "phone": "(872) 658-8423",
+                "marketing_phone": null,
+                "email": "johns.arno@gmail.com",
+                "slug": "necessitatibus-magnam-iusto-suscipit-harum-quidem",
+                "legal_entity": 0,
+                "status": "rejected",
+                "logo": "http://tbuy.lc/storage/222/480.jpeg",
+                "brands": [
+                    {
+                        "id": 11,
+                        "name": "placeat",
+                        "name_extended": null,
+                        "date": "1979-11-10",
+                        "description": "Placeat hic perferendis sed provident et. Dolor voluptate vel qui est aliquid est maxime nam. Autem ratione iure aut expedita adipisci quia. Laudantium pariatur praesentium cum.",
+                        "logo": null,
+                        "status": "pending",
+                        "created_at": "2023-07-30T09:11:07.000000Z",
+                        "accepted_at": null
+                    }
+                ],
+                "socials": {
+                    "website": null,
+                    "facebook": null,
+                    "instagram": null,
+                    "whatsapp": null,
+                    "viber": null
+                },
+                "documents": {
+                    "brand": "http://tbuy.lc/storage/6/text.txt",
+                    "inn": "http://tbuy.lc/storage/7/text.txt",
+                    "passport": "http://tbuy.lc/storage/9/text.txt",
+                    "state_register": "http://tbuy.lc/storage/8/text.txt"
+                },
+                "average_rating_score": 3.6
+            },
+            "reason": {
+                "id": 5,
+                "reason": "Earum molestiae tenetur reiciendis facere qui sit. Doloremque dolor distinctio quia maxime. Ipsum iure quo nostrum sequi. Dolor impedit ipsum nam aliquam officia beatae beatae."
+            },
+            "image": {
+                "id": 13,
+                "inn": 71505849,
+                "name": {
+                    "en": "debitis",
+                    "hy": "velit",
+                    "ru": "qui"
+                },
+                "slug": "necessitatibus-magnam-iusto-suscipit-harum-quidem",
+                "type": "sales",
+                "email": "johns.arno@gmail.com",
+                "phone": "(872) 658-8423",
+                "status": "rejected",
+                "user_id": 5,
+                "director": {
+                    "last_name": "Stamm",
+                    "first_name": "Kurtis"
+                },
+                "created_at": "2023-07-30T09:11:07.000000Z",
+                "updated_at": "2023-07-30T09:11:07.000000Z",
+                "legal_entity": false,
+                "registered_at": "1996-05-16T04:24:35.000000Z"
+            },
+            "created_at": "2023-07-30T09:11:22.000000Z"
+        }
+    ]
+}

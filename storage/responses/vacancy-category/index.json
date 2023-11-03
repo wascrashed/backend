@@ -1,0 +1,26 @@
+{
+    "success": true,
+    "message": "Список категорий вакансий",
+    "data": [
+        {
+            "id": 1,
+            "name": "Dr."
+        },
+        {
+            "id": 2,
+            "name": "Dr."
+        },
+        {
+            "id": 3,
+            "name": "Mrs."
+        },
+        {
+            "id": 4,
+            "name": "Mr."
+        },
+        {
+            "id": 5,
+            "name": "Mrs."
+        }
+    ]
+}

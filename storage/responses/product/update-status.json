@@ -1,0 +1,36 @@
+{
+    "success": true,
+    "message": "Статус продукта успешно изменен",
+    "data": {
+        "id": 1,
+        "name": "sunt",
+        "amount": 79,
+        "active": false,
+        "color": "#19264b",
+        "size": 3342,
+        "status": "waiting",
+        "price": 56,
+        "brand": {
+            "id": 50,
+            "name": "est",
+            "date": "1975-09-20T00:00:00.000000Z",
+            "description": "Neque exercitationem est vero repellat ipsum nesciunt. Molestiae omnis odit quo inventore necessitatibus dolorem. Porro nihil ut asperiores facere fugit commodi vel.",
+            "company": {
+                "id": 11,
+                "name": "ut",
+                "slug": "omnis-tempora-dolorum-ullam-nihil-vitae-ipsam-voluptas"
+            },
+            "logo": null,
+            "status": "pending",
+            "comment": "Magnam voluptas quia veniam saepe qui aut vel dolores. Necessitatibus eaque sint ipsam omnis est sequi consequatur. Voluptas sed sed dolores ipsum eveniet quis."
+        },
+        "category": {
+            "id": 3,
+            "name": "necessitatibus",
+            "slug": "numquam-minima-et-dicta-et-explicabo"
+        },
+        "images": [],
+        "accepted_at": "2023-07-17T05:45:05.000000Z",
+        "created_at": "2023-07-17T05:45:05.000000Z"
+    }
+}

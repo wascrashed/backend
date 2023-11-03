@@ -1,0 +1,25 @@
+{
+    "success": true,
+    "message": "Company scored",
+    "data": {
+        "id": 3,
+        "name": "quis",
+        "description": "",
+        "inn": "13784299",
+        "phone": "+1.540.831.3738",
+        "marketing_phone": null,
+        "email": "estefania.rath@gmail.com",
+        "slug": "qui-atque-occaecati-voluptas-ut-repellendus-quo",
+        "legal_entity": 0,
+        "status": "archived",
+        "socials": {
+            "website": null,
+            "facebook": null,
+            "instagram": null,
+            "whatsapp": null,
+            "viber": null
+        },
+        "documents": [],
+        "average_rating_score": 3.5
+    }
+}

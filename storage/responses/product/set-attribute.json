@@ -1,0 +1,37 @@
+{
+    "success": true,
+    "message": "Атрибуты успешно подключены",
+    "data": {
+        "id": 1,
+        "name": "quasi",
+        "amount": 164487,
+        "active": true,
+        "color": "#8e5f3f",
+        "size": 8361,
+        "status": "accepted",
+        "price": 8,
+        "images": [],
+        "attributes": [
+            {
+                "id": 1,
+                "name": "fugit",
+                "value": {
+                    "id": 1,
+                    "name": "est"
+                },
+                "is_name_part": false
+            },
+            {
+                "id": 2,
+                "name": "sit",
+                "value": {
+                    "id": 2,
+                    "name": "voluptas"
+                },
+                "is_name_part": false
+            }
+        ],
+        "accepted_at": null,
+        "created_at": "2023-07-07T15:19:06.000000Z"
+    }
+}

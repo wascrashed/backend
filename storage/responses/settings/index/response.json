@@ -1,0 +1,12 @@
+{
+    "success": true,
+    "message": "Список настроек",
+    "data": [
+        {
+            "id": 1,
+            "type": "search",
+            "variable": "output_count",
+            "value": "151"
+        }
+    ]
+}

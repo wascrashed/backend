@@ -1,0 +1,34 @@
+{
+    "success": true,
+    "message": "Атрибуты успешно подключены",
+    "data": {
+        "id": 1,
+        "name": "Name",
+        "date": "2023-01-01T00:00:00.000000Z",
+        "description": "description",
+        "attributes": [
+            {
+                "attribute": {
+                    "id": 1,
+                    "name": "fugit"
+                },
+                "value": {
+                    "id": 1,
+                    "name": "est"
+                }
+            },
+            {
+                "attribute": {
+                    "id": 2,
+                    "name": "sit"
+                },
+                "value": {
+                    "id": 2,
+                    "name": "voluptas"
+                }
+            }
+        ],
+        "logo": "http://tbuy.lc/storage/1/Screenshot-from-2023-07-06-10-03-12.png",
+        "status": "pending"
+    }
+}

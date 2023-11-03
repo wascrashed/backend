@@ -1,0 +1,11 @@
+{
+    "message": "The user id field is required. (and 1 more error)",
+    "errors": {
+        "user_id": [
+            "The user id field is required."
+        ],
+        "menu": [
+            "The menu field must be present."
+        ]
+    }
+}

@@ -1,0 +1,38 @@
+{
+    "message": "The audience id field is required. (and 10 more errors)",
+    "errors": {
+        "audience_id": [
+            "The audience id field is required."
+        ],
+        "targetable_type": [
+            "The targetable type field is required."
+        ],
+        "targetable_id": [
+            "The targetable id field is required."
+        ],
+        "name": [
+            "The name field is required."
+        ],
+        "name.ru": [
+            "The name.ru field is required."
+        ],
+        "name.en": [
+            "The name.en field is required."
+        ],
+        "name.hy": [
+            "The name.hy field is required."
+        ],
+        "link": [
+            "The link field is required."
+        ],
+        "duration": [
+            "The duration field is required."
+        ],
+        "started_at": [
+            "The started at field is required."
+        ],
+        "finished_at": [
+            "The finished at field is required."
+        ]
+    }
+}

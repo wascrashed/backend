@@ -1,0 +1,32 @@
+{
+    "message": "The description field is required. (and 8 more errors)",
+    "errors": {
+        "description": [
+            "The description field is required."
+        ],
+        "description.ru": [
+            "The description.ru field is required."
+        ],
+        "description.en": [
+            "The description.en field is required."
+        ],
+        "description.hy": [
+            "The description.hy field is required."
+        ],
+        "country_id": [
+            "The country id field is required."
+        ],
+        "company_id": [
+            "The company id field is required."
+        ],
+        "product_id": [
+            "The product id field is required."
+        ],
+        "date": [
+            "The date field is required."
+        ],
+        "logo": [
+            "The logo field is required."
+        ]
+    }
+}

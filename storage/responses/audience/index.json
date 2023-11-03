@@ -1,0 +1,356 @@
+{
+    "success": true,
+    "message": "Список аудиторий",
+    "data": [
+        {
+            "id": 1,
+            "name": "Dr. Junior Gottlieb PhD",
+            "company": {
+                "id": 44,
+                "name": "reprehenderit",
+                "description": "",
+                "phone": "+1 (779) 831-3227",
+                "marketing_phone": null,
+                "email": "fhettinger@welch.org",
+                "slug": "ad-fuga-officiis-sapiente-at-et-hic-odit-sapiente",
+                "legal_entity": 1,
+                "status": "moderation",
+                "socials": {
+                    "website": null,
+                    "facebook": null,
+                    "instagram": null,
+                    "whatsapp": null,
+                    "viber": null
+                }
+            },
+            "country": {
+                "id": 208,
+                "name": "Switzerland",
+                "code": "CH"
+            },
+            "region": {
+                "id": 8
+            },
+            "gender": "all",
+            "age": {
+                "max": 76470,
+                "min": 19162
+            }
+        },
+        {
+            "id": 2,
+            "name": "Brandi Roberts",
+            "company": {
+                "id": 58,
+                "name": "culpa",
+                "description": "",
+                "phone": "+1 (786) 850-9336",
+                "marketing_phone": null,
+                "email": "gbeatty@yahoo.com",
+                "slug": "maxime-ut-voluptatem-neque-est-earum-officia-totam",
+                "legal_entity": 1,
+                "status": "new",
+                "socials": {
+                    "website": null,
+                    "facebook": null,
+                    "instagram": null,
+                    "whatsapp": null,
+                    "viber": null
+                }
+            },
+            "country": {
+                "id": 87,
+                "name": "Grenada",
+                "code": "GD"
+            },
+            "region": {
+                "id": 7
+            },
+            "gender": "all",
+            "age": {
+                "max": 901888269,
+                "min": 92739
+            }
+        },
+        {
+            "id": 3,
+            "name": "Tamara Schmidt",
+            "company": {
+                "id": 38,
+                "name": "ut",
+                "description": "",
+                "phone": "971.875.3506",
+                "marketing_phone": null,
+                "email": "marian.heathcote@thiel.com",
+                "slug": "et-minus-ut-accusantium-repellendus-consectetur",
+                "legal_entity": 1,
+                "status": "active",
+                "socials": {
+                    "website": null,
+                    "facebook": null,
+                    "instagram": null,
+                    "whatsapp": null,
+                    "viber": null
+                }
+            },
+            "country": {
+                "id": 154,
+                "name": "New Caledonia",
+                "code": "NC"
+            },
+            "region": {
+                "id": 6
+            },
+            "gender": "f",
+            "age": {
+                "max": 104,
+                "min": 52400439
+            }
+        },
+        {
+            "id": 4,
+            "name": "Prof. Kurtis Wiza II",
+            "company": {
+                "id": 47,
+                "name": "minus",
+                "description": "",
+                "phone": "+1 (231) 863-7008",
+                "marketing_phone": null,
+                "email": "gordon.breitenberg@gmail.com",
+                "slug": "atque-sit-voluptate-rerum-suscipit",
+                "legal_entity": 1,
+                "status": "approved",
+                "socials": {
+                    "website": null,
+                    "facebook": null,
+                    "instagram": null,
+                    "whatsapp": null,
+                    "viber": null
+                }
+            },
+            "country": {
+                "id": 66,
+                "name": "Equatorial Guinea",
+                "code": "GQ"
+            },
+            "region": {
+                "id": 6
+            },
+            "gender": "f",
+            "age": {
+                "max": 77,
+                "min": 5211411
+            }
+        },
+        {
+            "id": 5,
+            "name": "Prof. Greg Dicki",
+            "company": {
+                "id": 28,
+                "name": "incidunt",
+                "description": "",
+                "phone": "+19128170176",
+                "marketing_phone": null,
+                "email": "bkuvalis@mohr.com",
+                "slug": "amet-sapiente-sapiente-culpa-ipsam-corrupti-maxime-totam",
+                "legal_entity": 1,
+                "status": "approved",
+                "socials": {
+                    "website": null,
+                    "facebook": null,
+                    "instagram": null,
+                    "whatsapp": null,
+                    "viber": null
+                }
+            },
+            "country": {
+                "id": 128,
+                "name": "Macedonia",
+                "code": "MK"
+            },
+            "region": {
+                "id": 8
+            },
+            "gender": "f",
+            "age": {
+                "max": 692,
+                "min": 89254
+            }
+        },
+        {
+            "id": 6,
+            "name": "Mrs. Rosina Bergstrom DVM",
+            "company": {
+                "id": 1,
+                "name": "aut",
+                "description": "",
+                "phone": "(509) 659-1630",
+                "marketing_phone": null,
+                "email": "anderson.delaney@gmail.com",
+                "slug": "quidem-sapiente-dolor-quia-ipsa-quia-id",
+                "legal_entity": 1,
+                "status": "moderation",
+                "socials": {
+                    "website": null,
+                    "facebook": null,
+                    "instagram": null,
+                    "whatsapp": null,
+                    "viber": null
+                }
+            },
+            "country": {
+                "id": 126,
+                "name": "Luxembourg",
+                "code": "LU"
+            },
+            "region": {
+                "id": 5
+            },
+            "gender": "f",
+            "age": {
+                "max": 364705,
+                "min": 475792
+            }
+        },
+        {
+            "id": 7,
+            "name": "Kurtis Schmitt",
+            "company": {
+                "id": 12,
+                "name": "sapiente",
+                "description": "",
+                "phone": "+1-628-966-5791",
+                "marketing_phone": null,
+                "email": "emmanuel.kling@yahoo.com",
+                "slug": "blanditiis-omnis-voluptatem-voluptas",
+                "legal_entity": 1,
+                "status": "active",
+                "socials": {
+                    "website": null,
+                    "facebook": null,
+                    "instagram": null,
+                    "whatsapp": null,
+                    "viber": null
+                }
+            },
+            "country": {
+                "id": 203,
+                "name": "Sudan",
+                "code": "SD"
+            },
+            "region": {
+                "id": 4
+            },
+            "gender": "all",
+            "age": {
+                "max": 448033,
+                "min": 64
+            }
+        },
+        {
+            "id": 8,
+            "name": "Mrs. Vicky Cruickshank",
+            "company": {
+                "id": 29,
+                "name": "et",
+                "description": "",
+                "phone": "564.824.7897",
+                "marketing_phone": null,
+                "email": "kiehn.armando@zieme.info",
+                "slug": "odio-molestiae-autem-voluptatum-corrupti",
+                "legal_entity": 1,
+                "status": "rejected",
+                "socials": {
+                    "website": null,
+                    "facebook": null,
+                    "instagram": null,
+                    "whatsapp": null,
+                    "viber": null
+                }
+            },
+            "country": {
+                "id": 203,
+                "name": "Sudan",
+                "code": "SD"
+            },
+            "region": {
+                "id": 3
+            },
+            "gender": "m",
+            "age": {
+                "max": 751050449,
+                "min": 65382936
+            }
+        },
+        {
+            "id": 9,
+            "name": "Gabrielle Legros",
+            "company": {
+                "id": 51,
+                "name": "aut",
+                "description": "",
+                "phone": "1-219-621-2327",
+                "marketing_phone": null,
+                "email": "will.hammes@hotmail.com",
+                "slug": "magnam-excepturi-vel-tempora-dolores",
+                "legal_entity": 1,
+                "status": "new",
+                "socials": {
+                    "website": null,
+                    "facebook": null,
+                    "instagram": null,
+                    "whatsapp": null,
+                    "viber": null
+                }
+            },
+            "country": {
+                "id": 164,
+                "name": "Pakistan",
+                "code": "PK"
+            },
+            "region": {
+                "id": 1
+            },
+            "gender": "all",
+            "age": {
+                "max": 435,
+                "min": 49426
+            }
+        },
+        {
+            "id": 10,
+            "name": "Prof. Mauricio Skiles DVM",
+            "company": {
+                "id": 6,
+                "name": "sint",
+                "description": "",
+                "phone": "+1.715.991.2896",
+                "marketing_phone": null,
+                "email": "cbarrows@gmail.com",
+                "slug": "deleniti-voluptates-aspernatur-perferendis-ducimus-et-eos-consequatur",
+                "legal_entity": 1,
+                "status": "archived",
+                "socials": {
+                    "website": null,
+                    "facebook": null,
+                    "instagram": null,
+                    "whatsapp": null,
+                    "viber": null
+                }
+            },
+            "country": {
+                "id": 87,
+                "name": "Grenada",
+                "code": "GD"
+            },
+            "region": {
+                "id": 1
+            },
+            "gender": "f",
+            "age": {
+                "max": 75061,
+                "min": 27017
+            }
+        }
+    ]
+}

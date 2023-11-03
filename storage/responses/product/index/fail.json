@@ -1,0 +1,8 @@
+{
+    "message": "The to field is required when from /  is present.",
+    "errors": {
+        "to": [
+            "The to field is required when from /  is present."
+        ]
+    }
+}

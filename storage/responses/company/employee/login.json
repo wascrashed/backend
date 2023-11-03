@@ -1,0 +1,13 @@
+{
+    "success": true,
+    "message": "Login success",
+    "data": {
+        "user": {
+            "id": 1,
+            "name": "Admin Adminov",
+            "email": "oleg@admin.com",
+            "created_at": "2023-07-18T07:22:26.000000Z"
+        },
+        "access_token": "4|5uRwmYF633wYBGbz9cVCgjJ3611otk9rJgibYxFx"
+    }
+}

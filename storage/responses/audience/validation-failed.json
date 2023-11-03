@@ -1,0 +1,38 @@
+{
+    "message": "The name field is required. (and 10 more errors)",
+    "errors": {
+        "name": [
+            "The name field is required."
+        ],
+        "name.ru": [
+            "The name.ru field is required."
+        ],
+        "name.en": [
+            "The name.en field is required."
+        ],
+        "name.hy": [
+            "The name.hy field is required."
+        ],
+        "company_id": [
+            "The company id field is required."
+        ],
+        "country_id": [
+            "The country id field is required."
+        ],
+        "region_id": [
+            "The region id field is required."
+        ],
+        "gender": [
+            "The gender field is required."
+        ],
+        "age": [
+            "The age field is required."
+        ],
+        "age.min": [
+            "The age.min field is required."
+        ],
+        "age.max": [
+            "The age.max field is required."
+        ]
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "message": "Сотрудник успешно обновлен",
+    "data": {
+        "id": 22,
+        "username": "xxx2coder",
+        "registered_at": "2023-07-18T07:22:33.000000Z"
+    }
+}

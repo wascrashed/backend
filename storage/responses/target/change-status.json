@@ -1,0 +1,59 @@
+{
+    "success": true,
+    "message": "Статус изменен",
+    "data": {
+        "id": 1,
+        "audience": {
+            "id": 3,
+            "name": "Danial Ullrich",
+            "gender": "m",
+            "age": {
+                "max": 676712464,
+                "min": 29
+            }
+        },
+        "targetable": {
+            "id": 45,
+            "name": {
+                "en": "nam",
+                "hy": "repudiandae",
+                "ru": "voluptatem"
+            },
+            "description": null,
+            "type": "services",
+            "inn": "14578073",
+            "director": {
+                "last_name": "Satterfield",
+                "first_name": "Tremaine"
+            },
+            "phone": "380-553-6755",
+            "marketing_phone": null,
+            "email": "tevin.borer@yahoo.com",
+            "registered_at": "1983-07-31T13:32:32.000000Z",
+            "slug": "suscipit-possimus-dignissimos-doloribus",
+            "parent_id": 43,
+            "status": "rejected",
+            "legal_entity": 1,
+            "user_id": 2,
+            "socials": {
+                "website": null,
+                "facebook": null,
+                "instagram": null,
+                "whatsapp": null,
+                "viber": null
+            },
+            "tariff": null,
+            "balance": null,
+            "rating": null,
+            "created_at": "2023-07-27T16:21:23.000000Z",
+            "updated_at": "2023-07-27T16:21:23.000000Z"
+        },
+        "name": "Casandra Wintheiser",
+        "link": "http://weissnat.com/possimus-enim-iste-non-est",
+        "duration": -27,
+        "status": "accepted",
+        "views": 136472,
+        "started_at": "2023-07-27-07-2023-16-21-31",
+        "finished_at": "2023-07-27-07-2023-16-21-31"
+    }
+}

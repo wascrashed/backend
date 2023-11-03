@@ -1,0 +1,50 @@
+{
+    "message": "The name field is required. (and 14 more errors)",
+    "errors": {
+        "name": [
+            "The name field is required."
+        ],
+        "name.ru": [
+            "The name.ru field is required."
+        ],
+        "name.en": [
+            "The name.en field is required."
+        ],
+        "name.hy": [
+            "The name.hy field is required."
+        ],
+        "description": [
+            "The description field is required."
+        ],
+        "description.ru": [
+            "The description.ru field is required."
+        ],
+        "description.en": [
+            "The description.en field is required."
+        ],
+        "description.hy": [
+            "The description.hy field is required."
+        ],
+        "privilege": [
+            "The privilege field is required."
+        ],
+        "privilege.ru": [
+            "The privilege.ru field is required."
+        ],
+        "privilege.en": [
+            "The privilege.en field is required."
+        ],
+        "privilege.hy": [
+            "The privilege.hy field is required."
+        ],
+        "price": [
+            "The price field is required."
+        ],
+        "score": [
+            "The score field is required."
+        ],
+        "percent": [
+            "The percent field is required."
+        ]
+    }
+}

@@ -1,0 +1,124 @@
+{
+    "success": true,
+    "message": "Company detail",
+    "data": {
+        "id": 1,
+        "name": "Name ru",
+        "description": "Description ru",
+        "type": "sales",
+        "inn": "3933891",
+        "director": {
+            "last_name": "Adminov",
+            "first_name": "Admin"
+        },
+        "phone": "+123 123 12 123 12",
+        "marketing_phone": "+32 123 12 12312",
+        "email": "email@mail.com",
+        "registered_at": "2006-05-03 15:01:32",
+        "slug": "eius-dolores-voluptate-sunt-quam-itaque",
+        "status": "moderation",
+        "parent": null,
+        "children": [
+            {
+                "id": 2,
+                "name": "at",
+                "description": "",
+                "phone": "+1.920.397.4347",
+                "marketing_phone": null,
+                "email": "ojacobi@pacocha.biz",
+                "slug": "recusandae-eius-sed-quis-autem-eius-dolores-est-quia",
+                "socials": {
+                    "website": null,
+                    "facebook": null,
+                    "instagram": null,
+                    "whatsapp": null,
+                    "viber": null
+                }
+            },
+            {
+                "id": 3,
+                "name": "nulla",
+                "description": "",
+                "phone": "949.209.9136",
+                "marketing_phone": null,
+                "email": "fhaley@brekke.biz",
+                "slug": "recusandae-repudiandae-culpa-assumenda-optio-voluptas-dolorem-debitis",
+                "socials": {
+                    "website": null,
+                    "facebook": null,
+                    "instagram": null,
+                    "whatsapp": null,
+                    "viber": null
+                }
+            },
+            {
+                "id": 4,
+                "name": "qui",
+                "description": "",
+                "phone": "(352) 541-9367",
+                "marketing_phone": null,
+                "email": "harvey.alessandro@herzog.com",
+                "slug": "provident-exercitationem-culpa-ut-maiores",
+                "socials": {
+                    "website": null,
+                    "facebook": null,
+                    "instagram": null,
+                    "whatsapp": null,
+                    "viber": null
+                }
+            },
+            {
+                "id": 5,
+                "name": "quod",
+                "description": "",
+                "phone": "+1-228-569-3426",
+                "marketing_phone": null,
+                "email": "nikko.bernier@gmail.com",
+                "slug": "est-nam-non-harum-consequatur-cumque-et-reprehenderit-ex",
+                "socials": {
+                    "website": null,
+                    "facebook": null,
+                    "instagram": null,
+                    "whatsapp": null,
+                    "viber": null
+                }
+            },
+            {
+                "id": 6,
+                "name": "quia",
+                "description": "",
+                "phone": "+1-573-433-0507",
+                "marketing_phone": null,
+                "email": "bruen.claude@yahoo.com",
+                "slug": "laborum-eaque-laboriosam-enim",
+                "socials": {
+                    "website": null,
+                    "facebook": null,
+                    "instagram": null,
+                    "whatsapp": null,
+                    "viber": null
+                }
+            }
+        ],
+        "user": {
+            "id": 5,
+            "name": "Admin Adminov",
+            "email": "michel@admin.com",
+            "created_at": "2023-07-18T07:34:25.000000Z"
+        },
+        "documents": {
+            "brand": null,
+            "inn": null,
+            "passport": null,
+            "state_register": null
+        },
+        "logo": null,
+        "socials": {
+            "website": "https://some-link.com",
+            "facebook": "https://facebook.com/somuser",
+            "instagram": "https://instagram.com/someuser",
+            "whatsapp": null,
+            "viber": null
+        }
+    }
+}

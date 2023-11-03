@@ -1,0 +1,59 @@
+{
+    "success": true,
+    "message": "Рассылка обновлена",
+    "data": {
+        "id": 1,
+        "audience": {
+            "id": 7,
+            "name": "Albin Crist",
+            "gender": "all",
+            "age": {
+                "max": 1,
+                "min": 91169594
+            }
+        },
+        "targetable": {
+            "id": 15,
+            "name": {
+                "en": "et",
+                "hy": "rerum",
+                "ru": "qui"
+            },
+            "description": null,
+            "type": "services",
+            "inn": "19402381",
+            "director": {
+                "last_name": "Jast",
+                "first_name": "Tia"
+            },
+            "phone": "540-393-7142",
+            "marketing_phone": null,
+            "email": "powlowski.torrey@herman.com",
+            "registered_at": "1981-11-01T22:20:39.000000Z",
+            "slug": "qui-est-deserunt-minus-ut",
+            "parent_id": 13,
+            "status": "active",
+            "legal_entity": 1,
+            "user_id": 2,
+            "socials": {
+                "website": null,
+                "facebook": null,
+                "instagram": null,
+                "whatsapp": null,
+                "viber": null
+            },
+            "tariff": null,
+            "balance": null,
+            "rating": null,
+            "created_at": "2023-07-27T15:42:34.000000Z",
+            "updated_at": "2023-07-27T15:42:34.000000Z"
+        },
+        "name": "Myriam Green",
+        "link": "https://www.walter.org/aut-quo-quis-quia-expedita-dolor-ea",
+        "duration": -7,
+        "status": "new",
+        "views": 59881598,
+        "started_at": "2023-07-27-07-2023-15-42-43",
+        "finished_at": "2023-07-27-07-2023-15-42-43"
+    }
+}

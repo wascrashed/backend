@@ -1,0 +1,39 @@
+{
+    "success": true,
+    "message": "Аудитория обновлена",
+    "data": {
+        "id": 11,
+        "name": "Тест",
+        "company": {
+            "id": 1,
+            "name": "aut",
+            "description": "",
+            "phone": "(509) 659-1630",
+            "marketing_phone": null,
+            "email": "anderson.delaney@gmail.com",
+            "slug": "quidem-sapiente-dolor-quia-ipsa-quia-id",
+            "legal_entity": 1,
+            "status": "moderation",
+            "socials": {
+                "website": null,
+                "facebook": null,
+                "instagram": null,
+                "whatsapp": null,
+                "viber": null
+            }
+        },
+        "country": {
+            "id": 1,
+            "name": "United States",
+            "code": "US"
+        },
+        "region": {
+            "id": 1
+        },
+        "gender": "all",
+        "age": {
+            "min": 20,
+            "max": 25
+        }
+    }
+}

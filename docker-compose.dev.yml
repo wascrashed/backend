@@ -1,0 +1,148 @@
+version: "3.7"
+services:
+  app:
+    build:
+      context: ./
+      dockerfile: Dockerfile
+    image: travellist
+    container_name: travellist-app
+    restart: unless-stopped
+    working_dir: /var/www/
+    environment:
+      PHP_POOL_NAME: "tea-connection-pool"
+    env_file:
+      - .env
+    volumes:
+      - ./:/var/www
+    networks:
+      - tea
+    depends_on:
+      - pgsql
+      - meilisearch
+  #            - redis
+  #            - soketi
+  supervisord:
+    image: travellist
+    user: root
+    container_name: travellist-supervisor
+    restart: unless-stopped
+    command:
+      - "/usr/bin/supervisord"
+    environment:
+      PHP_POOL_NAME: "tea-connection-pool"
+    volumes:
+      - .:/var/www
+      - ./docker-compose/backend/supervisor.conf:/etc/supervisor/conf.d/supervisord.conf
+    networks:
+      - tea
+    depends_on:
+      - pgsql
+      - meilisearch
+  #            - redis
+  #            - soketi
+  schedule:
+    image: travellist
+    user: root
+    container_name: travellist-schedule
+    restart: unless-stopped
+    command: "/bin/bash docker-compose/start.sh"
+    volumes:
+      - .:/var/www
+    networks:
+      - tea
+    depends_on:
+      - pgsql
+      - meilisearch
+    #            - redis
+    #            - soketi
+    env_file:
+      - .env
+    environment:
+      CONTAINER_ROLE: scheduler
+  pgsql:
+    image: 'postgres:15'
+    container_name: postgres
+    environment:
+      PGPASSWORD: '${DB_PASSWORD:-secret}'
+      POSTGRES_DB: '${DB_DATABASE}'
+      POSTGRES_USER: '${DB_USERNAME}'
+      POSTGRES_PASSWORD: '${DB_PASSWORD:-secret}'
+    env_file:
+      - .env
+    networks:
+      - tea
+    volumes:
+      - 'sail-pgsql:/var/lib/postgresql/data'
+    healthcheck:
+      test:
+        - CMD
+        - pg_isready
+        - '-q'
+        - '-d'
+        - '${DB_DATABASE}'
+        - '-U'
+        - '${DB_USERNAME}'
+      retries: 3
+      timeout: 5s
+
+    ports:
+      - "5432:5432"
+
+  nginx:
+    image: nginx:alpine
+    container_name: travellist-nginx
+    restart: unless-stopped
+    ports:
+      - 8082:80
+    volumes:
+      - ./:/var/www
+      - ./docker-compose/nginx:/etc/nginx/conf.d/
+    networks:
+      - tea
+  meilisearch:
+    container_name: meilisearch
+    image: getmeili/meilisearch:v0.25.2
+    environment:
+      - http_proxy
+      - https_proxy
+      - MEILI_MASTER_KEY=${MEILI_MASTER_KEY:-masterKey}
+      - MEILI_NO_ANALYTICS=true
+      - MEILI_ENV=development
+      - MEILI_DB_PATH=/data.ms
+    ports:
+      - "7700:7700"
+    networks:
+      - tea
+    restart: unless-stopped
+
+#    soketi:
+#        image: 'quay.io/soketi/soketi:latest-16-alpine'
+#        environment:
+#            SOKETI_DEBUG: '1'
+#            SOKETI_METRICS_SERVER_PORT: '9601'
+#        ports:
+#            - '6001:6001'
+#            - '9601:9601'
+#        networks:
+#            - tea
+
+#    redis:
+#        image: 'redis:alpine'
+#        ports:
+#            - '${FORWARD_REDIS_PORT:-6379}:6379'
+#        volumes:
+#            - 'redisvolume:/data'
+#        networks:
+#            - tea
+#        healthcheck:
+#            test: [ "CMD", "redis-cli", "ping" ]
+
+networks:
+  tea:
+    driver: bridge
+
+volumes:
+  sail-pgsql:
+    driver: local
+  redisvolume:
+    driver: local

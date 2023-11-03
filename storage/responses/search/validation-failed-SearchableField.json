@@ -1,0 +1,14 @@
+{
+    "message": "The description field is required.",
+    "errors": {
+        "model_field_id": [
+            "The phone field is required."
+        ],
+        "searchable_model_id": [
+            "The slug field is required."
+        ],
+        "priority": [
+            "The slug field is required."
+        ]
+    }
+}

@@ -1,0 +1,8 @@
+{
+    "message": "The term month field is required.",
+    "errors": {
+        "term_month": [
+            "The term month field is required."
+        ]
+    }
+}

@@ -1,0 +1,11 @@
+{
+    "message": "The email field is required. (and 1 more errors)",
+    "errors": {
+        "description": [
+            "The email field is required."
+        ],
+        "description.ru": [
+            "The password field is required."
+        ]
+    }
+}

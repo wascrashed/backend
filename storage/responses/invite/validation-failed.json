@@ -1,0 +1,17 @@
+{
+    "message": "The company id field is required. (and 3 more errors)",
+    "errors": {
+        "company_id": [
+            "The company id field is required."
+        ],
+        "email": [
+            "The email field is required."
+        ],
+        "username": [
+            "The username field is required."
+        ],
+        "expired_at": [
+            "The expired at field is required."
+        ]
+    }
+}

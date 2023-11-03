@@ -1,0 +1,8 @@
+{
+    "success": true,
+    "message": "Детали категории вакансий",
+    "data": {
+        "id": 6,
+        "name": "Test 1"
+    }
+}

@@ -1,0 +1,55 @@
+{
+    "success": true,
+    "message": "Filial list",
+    "data": [
+        {
+            "id": 6,
+            "name": "quia",
+            "phone": "+1-920-475-4111",
+            "address": "369 Brittany Rapid\nStiedemannchester, OK 71715-9237",
+            "coordinates": {
+                "latitude": "-8.220807",
+                "longitude": "37.497359"
+            },
+            "schedule": [
+                {
+                    "open_at": "9:00",
+                    "close_at": "18:00",
+                    "day": 1,
+                    "day_string": "Monday"
+                },
+                {
+                    "open_at": "9:00",
+                    "close_at": "18:00",
+                    "day": 2,
+                    "day_string": "Tuesday"
+                },
+                {
+                    "open_at": "9:00",
+                    "close_at": "18:00",
+                    "day": 3,
+                    "day_string": "Wednesday"
+                },
+                {
+                    "open_at": "9:00",
+                    "close_at": "18:00",
+                    "day": 4,
+                    "day_string": "Thursday"
+                },
+                {
+                    "open_at": "9:00",
+                    "close_at": "18:00",
+                    "day": 5,
+                    "day_string": "Friday"
+                },
+                {
+                    "open_at": "9:00",
+                    "close_at": "16:00",
+                    "day": 6,
+                    "day_string": "Saturday"
+                }
+            ],
+            "is_main": false
+        }
+    ]
+}

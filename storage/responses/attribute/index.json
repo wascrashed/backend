@@ -1,0 +1,58 @@
+{
+    "success": true,
+    "message": "Attribute list",
+    "data": [
+        {
+            "id": 1,
+            "name": "repellat",
+            "values": [
+                {
+                    "id": 1,
+                    "name": "repudiandae"
+                },
+                {
+                    "id": 2,
+                    "name": "consequatur"
+                },
+                {
+                    "id": 3,
+                    "name": "itaque"
+                },
+                {
+                    "id": 4,
+                    "name": "nesciunt"
+                },
+                {
+                    "id": 5,
+                    "name": "fuga"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "porro",
+            "values": [
+                {
+                    "id": 6,
+                    "name": "error"
+                },
+                {
+                    "id": 7,
+                    "name": "dolore"
+                },
+                {
+                    "id": 8,
+                    "name": "a"
+                },
+                {
+                    "id": 9,
+                    "name": "facilis"
+                },
+                {
+                    "id": 10,
+                    "name": "velit"
+                }
+            ]
+        }
+    ]
+}

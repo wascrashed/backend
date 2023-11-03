@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "message": "Locale updated",
+    "data": {
+        "id": 1,
+        "name": "Английский",
+        "locale": "en"
+    }
+}

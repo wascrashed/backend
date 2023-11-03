@@ -1,0 +1,20 @@
+{
+    "message": "The name field must be present. (and 4 more errors)",
+    "errors": {
+        "name": [
+            "The name field must be present."
+        ],
+        "name.ru": [
+            "The name.ru field is required."
+        ],
+        "name.en": [
+            "The name.en field is required."
+        ],
+        "name.hy": [
+            "The name.hy field is required."
+        ],
+        "banner_id": [
+            "The banner_id field is required."
+        ]
+    }
+}

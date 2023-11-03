@@ -1,0 +1,146 @@
+{
+    "success": true,
+    "message": "Rejection list",
+    "data": [
+        {
+            "id": 1,
+            "target": {
+                "id": 1,
+                "name": "et",
+                "slug": "aliquid-voluptatem-voluptate-ipsam-incidunt-autem"
+            },
+            "image": {
+                "id": 1,
+                "inn": "27650228",
+                "name": {
+                    "en": "minus",
+                    "hy": "rerum",
+                    "ru": "et"
+                },
+                "slug": "aliquid-voluptatem-voluptate-ipsam-incidunt-autem",
+                "type": "services",
+                "email": "brown.zackary@gmail.com",
+                "phone": "+1.860.514.1241",
+                "status": "rejected",
+                "user_id": 1,
+                "director": {
+                    "last_name": "Goyette",
+                    "first_name": "Verona"
+                },
+                "parent_id": null,
+                "created_at": "2023-07-17T05:45:04.000000Z",
+                "updated_at": "2023-07-17T05:45:04.000000Z",
+                "registered_at": "1980-04-07T06:26:57.000000Z"
+            }
+        },
+        {
+            "id": 2,
+            "target": null,
+            "image": {
+                "id": 1,
+                "name": {
+                    "en": "sunt"
+                },
+                "size": 3342,
+                "brand": {
+                    "id": 50,
+                    "date": "1975-09-20",
+                    "name": {
+                        "en": "optio",
+                        "hy": "error",
+                        "ru": "est"
+                    },
+                    "status": "pending",
+                    "comment": "Magnam voluptas quia veniam saepe qui aut vel dolores. Necessitatibus eaque sint ipsam omnis est sequi consequatur. Voluptas sed sed dolores ipsum eveniet quis.",
+                    "company": {
+                        "id": 11,
+                        "inn": "49637357",
+                        "name": {
+                            "en": "dolore",
+                            "hy": "porro",
+                            "ru": "ut"
+                        },
+                        "slug": "omnis-tempora-dolorum-ullam-nihil-vitae-ipsam-voluptas",
+                        "type": "sales",
+                        "email": "wayne50@dibbert.net",
+                        "phone": "864.667.3988",
+                        "status": "active",
+                        "user_id": 1,
+                        "director": {
+                            "last_name": "Crooks",
+                            "first_name": "Kyler"
+                        },
+                        "parent_id": 7,
+                        "created_at": "2023-07-17T05:45:04.000000Z",
+                        "updated_at": "2023-07-17T05:45:04.000000Z",
+                        "registered_at": "1973-01-15T01:21:32.000000Z"
+                    },
+                    "company_id": 11,
+                    "country_id": 1,
+                    "created_at": "2023-07-17T05:45:05.000000Z",
+                    "updated_at": "2023-07-17T05:45:05.000000Z",
+                    "description": {
+                        "en": "Aut fuga quis id in eveniet. Adipisci voluptatem et aut animi eaque minima ea. Non rerum numquam at laboriosam tenetur officia.",
+                        "hy": "Expedita rem repellendus adipisci eos. Laboriosam enim non veritatis nihil tempora. Tempore mollitia ut quos voluptas earum voluptatibus eos. Qui optio hic veniam in culpa dolorem consequuntur.",
+                        "ru": "Neque exercitationem est vero repellat ipsum nesciunt. Molestiae omnis odit quo inventore necessitatibus dolorem. Porro nihil ut asperiores facere fugit commodi vel."
+                    }
+                },
+                "color": "#19264b",
+                "price": 56,
+                "active": false,
+                "amount": 79,
+                "images": [],
+                "status": "rejected",
+                "brand_id": 50,
+                "category": {
+                    "id": 3,
+                    "name": {
+                        "en": "non",
+                        "hy": "sint",
+                        "ru": "necessitatibus"
+                    },
+                    "slug": "numquam-minima-et-dicta-et-explicabo",
+                    "parent_id": 1,
+                    "created_at": "2023-07-17T05:45:04.000000Z",
+                    "updated_at": "2023-07-17T05:45:04.000000Z"
+                },
+                "created_at": "2023-07-17T05:45:05.000000Z",
+                "updated_at": "2023-07-17T06:10:15.000000Z",
+                "accepted_at": "2023-07-17T05:45:05.000000Z",
+                "category_id": 3,
+                "before_declined": 0
+            }
+        },
+        {
+            "id": 3,
+            "target": {
+                "id": 1,
+                "name": "aut",
+                "date": "2016-04-06T00:00:00.000000Z",
+                "description": "Magni aperiam quod accusantium. Dolorem ut ex praesentium hic. Explicabo animi ut sint aperiam ut. Odit voluptates ex sed ducimus sequi occaecati.",
+                "logo": null,
+                "status": "rejected"
+            },
+            "image": {
+                "id": 1,
+                "date": "2016-04-06",
+                "name": {
+                    "en": "exercitationem",
+                    "hy": "voluptas",
+                    "ru": "aut"
+                },
+                "status": "rejected",
+                "comment": "Maxime asperiores impedit praesentium sunt dolores quas. Aliquam consequatur eum dolorem culpa velit et repudiandae. Nihil dolores suscipit culpa saepe.",
+                "company_id": 15,
+                "country_id": 1,
+                "created_at": "2023-07-17T05:45:05.000000Z",
+                "updated_at": "2023-07-17T06:12:55.000000Z",
+                "description": {
+                    "en": "Delectus quia quam ea et saepe molestiae dolorem. Delectus autem maxime rerum maxime. Consequuntur aliquid sint inventore possimus quaerat. Placeat nemo et et ratione ducimus et.",
+                    "hy": "Laborum vero minus odit voluptatem deserunt quia facilis. Incidunt in sed atque aliquid. Qui sint nesciunt dolorem et odit.",
+                    "ru": "Magni aperiam quod accusantium. Dolorem ut ex praesentium hic. Explicabo animi ut sint aperiam ut. Odit voluptates ex sed ducimus sequi occaecati."
+                }
+            }
+        }
+    ]
+}

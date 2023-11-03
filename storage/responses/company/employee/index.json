@@ -1,0 +1,50 @@
+{
+    "success": true,
+    "message": "Список сотрудников компании",
+    "data": [
+        {
+            "id": 16,
+            "user": {
+                "id": 1,
+                "name": "Admin Adminov",
+                "email": "admin@admin.com",
+                "created_at": "2023-07-13T13:02:46.000000Z"
+            },
+            "username": "lillie98",
+            "registered_at": "2023-07-13T13:02:50.000000Z"
+        },
+        {
+            "id": 22,
+            "user": {
+                "id": 1,
+                "name": "Admin Adminov",
+                "email": "admin@admin.com",
+                "created_at": "2023-07-13T13:02:46.000000Z"
+            },
+            "username": "taryn26",
+            "registered_at": "2023-07-13T13:02:50.000000Z"
+        },
+        {
+            "id": 29,
+            "user": {
+                "id": 1,
+                "name": "Admin Adminov",
+                "email": "admin@admin.com",
+                "created_at": "2023-07-13T13:02:46.000000Z"
+            },
+            "username": "hilpert.isaiah",
+            "registered_at": "2023-07-13T13:02:50.000000Z"
+        },
+        {
+            "id": 32,
+            "user": {
+                "id": 1,
+                "name": "Admin Adminov",
+                "email": "admin@admin.com",
+                "created_at": "2023-07-13T13:02:46.000000Z"
+            },
+            "username": "nader.joannie",
+            "registered_at": "2023-07-13T13:02:50.000000Z"
+        }
+    ]
+}

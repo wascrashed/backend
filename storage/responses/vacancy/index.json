@@ -1,0 +1,66 @@
+{
+    "success": true,
+    "message": "Список вакансий",
+    "data": [
+        {
+            "id": 1,
+            "title": "Prof.",
+            "description": "Quo minus corrupti voluptas consequuntur distinctio dolores. Facilis deleniti ut dolores. Tempore qui velit ex adipisci in totam. Suscipit dolores error ullam id odio accusamus aliquid.",
+            "salary": 89342,
+            "category": {
+                "id": 5,
+                "name": "Mrs."
+            },
+            "tags": [],
+            "images": []
+        },
+        {
+            "id": 2,
+            "title": "Prof.",
+            "description": "Totam fugit rerum cum similique fuga magni dolore repudiandae. Nisi cumque error eligendi quam deserunt natus atque. Sed asperiores cumque quisquam adipisci ad saepe.",
+            "salary": 48978,
+            "category": {
+                "id": 5,
+                "name": "Mrs."
+            },
+            "tags": [],
+            "images": []
+        },
+        {
+            "id": 3,
+            "title": "Prof.",
+            "description": "Sit occaecati ea est iure quas maxime. Molestias cumque sed illo id consequatur cum. Ea recusandae esse ut voluptates vitae non.",
+            "salary": 44816,
+            "category": {
+                "id": 5,
+                "name": "Mrs."
+            },
+            "tags": [],
+            "images": []
+        },
+        {
+            "id": 4,
+            "title": "Mr.",
+            "description": "Placeat quia quia adipisci eos excepturi iste. Repellat culpa quaerat quis ipsa ex commodi. Magnam optio vitae est sint dignissimos cum doloribus ipsum.",
+            "salary": 76850,
+            "category": {
+                "id": 5,
+                "name": "Mrs."
+            },
+            "tags": [],
+            "images": []
+        },
+        {
+            "id": 5,
+            "title": "Mrs.",
+            "description": "Ea vel voluptatem alias ut. Temporibus in est in sed eum. Et esse rerum deserunt numquam.",
+            "salary": 86914,
+            "category": {
+                "id": 5,
+                "name": "Mrs."
+            },
+            "tags": [],
+            "images": []
+        }
+    ]
+}

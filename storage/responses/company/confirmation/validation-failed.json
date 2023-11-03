@@ -1,0 +1,14 @@
+{
+    "message": "The bank account field is required. (and 2 more errors)",
+    "errors": {
+        "bank_account": [
+            "The bank account field is required."
+        ],
+        "tariff_conditions_accepted_at": [
+            "The tariff conditions accepted at field is required."
+        ],
+        "basic_agreement_accepted_at": [
+            "The basic agreement accepted at field is required."
+        ]
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "success": true,
+    "message": "Детали аудитории",
+    "data": {
+        "id": 1,
+        "name": "Dr. Junior Gottlieb PhD",
+        "company": {
+            "id": 44,
+            "name": "reprehenderit",
+            "description": "",
+            "phone": "+1 (779) 831-3227",
+            "marketing_phone": null,
+            "email": "fhettinger@welch.org",
+            "slug": "ad-fuga-officiis-sapiente-at-et-hic-odit-sapiente",
+            "legal_entity": 1,
+            "status": "moderation",
+            "socials": {
+                "website": null,
+                "facebook": null,
+                "instagram": null,
+                "whatsapp": null,
+                "viber": null
+            }
+        },
+        "country": {
+            "id": 208,
+            "name": "Switzerland",
+            "code": "CH"
+        },
+        "region": {
+            "id": 8
+        },
+        "gender": "all",
+        "age": {
+            "max": 76470,
+            "min": 19162
+        }
+    }
+}

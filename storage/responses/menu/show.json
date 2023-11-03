@@ -1,0 +1,30 @@
+{
+    "success": true,
+    "message": "Menu detail",
+    "data": {
+        "id": 11,
+        "name": "quisquam",
+        "slug": "quisquam",
+        "image": "http://tbuy.lc/storage/8/480.jpeg",
+        "children": [
+            {
+                "id": 12,
+                "name": "et",
+                "slug": "et",
+                "image": "http://tbuy.lc/storage/9/480.jpeg"
+            },
+            {
+                "id": 13,
+                "name": "dolor",
+                "slug": "dolor",
+                "image": "http://tbuy.lc/storage/10/480.jpeg"
+            },
+            {
+                "id": 14,
+                "name": "est",
+                "slug": "est",
+                "image": "http://tbuy.lc/storage/11/480.jpeg"
+            }
+        ]
+    }
+}

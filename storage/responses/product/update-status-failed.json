@@ -1,0 +1,8 @@
+{
+    "message": "The status field is required.",
+    "errors": {
+        "status": [
+            "The status field is required."
+        ]
+    }
+}

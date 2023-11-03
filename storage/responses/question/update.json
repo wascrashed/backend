@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "message": "Вопрос и ответ успешно обновлены",
+    "data": {
+        "id": 1,
+        "question": "question",
+        "answer": "answer"
+    }
+}

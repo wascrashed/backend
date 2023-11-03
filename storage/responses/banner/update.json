@@ -1,0 +1,19 @@
+{
+    "success": true,
+    "message": "Banner updated",
+    "data": {
+        "id": 1,
+        "name": "Название",
+        "content": {
+            "a": "b",
+            "b": {
+                "c": "d"
+            },
+            "e": [
+                {
+                    "f": "g"
+                }
+            ]
+        }
+    }
+}

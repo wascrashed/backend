@@ -1,0 +1,38 @@
+{
+    "success": true,
+    "message": "\u0421\u043f\u0438\u0441\u043e\u043a \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u043e\u0432 c \u043d\u0443\u043b\u0435\u0432\u044b\u043c \u043e\u0441\u0442\u0430\u0442\u043a\u043e\u043c",
+    "data": [
+        {
+            "id": 1,
+            "name": "asperiores",
+            "amount": 0,
+            "active": false,
+            "color": "#5a95cc",
+            "size": 352157,
+            "status": "waiting",
+            "price": 166263011,
+            "brand": {
+                "id": 30,
+                "name": "voluptatibus",
+                "date": "2022-11-10T00:00:00.000000Z",
+                "description": "Sequi architecto quia eligendi. Sequi sint illo et. Est ipsam sed incidunt unde. Aut atque unde numquam et autem.",
+                "company": {
+                    "id": 26,
+                    "name": "et",
+                    "slug": "adipisci-temporibus-eius-sunt-dolor"
+                },
+                "logo": null,
+                "status": "pending",
+                "comment": "Et quia illo officia quo totam. Atque rerum repudiandae eos itaque. Et non saepe ut sed."
+            },
+            "category": {
+                "id": 12,
+                "name": "fugiat",
+                "slug": "dolorem-in-non-ipsa-consequatur"
+            },
+            "images": [],
+            "accepted_at": null,
+            "created_at": "2023-07-12T21:31:19.000000Z"
+        }
+    ]
+}

@@ -1,0 +1,2461 @@
+{
+    "success": true,
+    "message": "Список отфильтрованных продуктов",
+    "data": [
+        {
+            "id": 1,
+            "name": "corporis",
+            "name_extended": "corporis red",
+            "amount": 24,
+            "active": false,
+            "color": "#f95ccd",
+            "size": 16,
+            "status": "confirmed",
+            "price": 52875,
+            "brand": {
+                "id": 14,
+                "name": "alias",
+                "name_extended": "alias",
+                "date": "1979-09-09",
+                "description": "Autem culpa adipisci corporis rem et. Perferendis impedit nihil aut et dolores qui. Ex animi laborum et quae est.",
+                "company": {
+                    "id": 16,
+                    "name": "quidem",
+                    "description": "",
+                    "phone": "406.417.0505",
+                    "marketing_phone": null,
+                    "email": "garrick.dietrich@hotmail.com",
+                    "slug": "ad-quos-quasi-iusto-qui",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "accepted",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 12,
+                "name": "provident",
+                "slug": "laudantium-quia-facilis-sit-dolores-explicabo"
+            },
+            "images": [],
+            "attributes": [
+                {
+                    "id": 1,
+                    "name": "esse",
+                    "value": {
+                        "id": 1,
+                        "name": "maxime"
+                    },
+                    "is_name_part": false
+                },
+                {
+                    "id": 2,
+                    "name": "est",
+                    "value": {
+                        "id": 2,
+                        "name": "quis"
+                    },
+                    "is_name_part": false
+                },
+                {
+                    "id": 3,
+                    "name": "sit",
+                    "value": {
+                        "id": 3,
+                        "name": "red"
+                    },
+                    "is_name_part": true
+                },
+                {
+                    "id": 4,
+                    "name": "saepe",
+                    "value": {
+                        "id": 3,
+                        "name": "red"
+                    },
+                    "is_name_part": false
+                }
+            ],
+            "accepted_at": "2023-07-19T10:20:04.000000Z",
+            "created_at": "2023-07-19T10:20:04.000000Z"
+        },
+        {
+            "id": 2,
+            "name": "nesciunt",
+            "name_extended": "nesciunt",
+            "amount": 0,
+            "active": false,
+            "color": "#1aeea0",
+            "size": 2823,
+            "status": "waiting",
+            "price": 4,
+            "brand": {
+                "id": 47,
+                "name": "distinctio",
+                "name_extended": "distinctio",
+                "date": "2010-06-23",
+                "description": "Quia blanditiis et enim soluta dignissimos incidunt. Vel voluptate totam illo dolore. Et magnam ab omnis beatae beatae. Dolor quia possimus atque est officia.",
+                "company": {
+                    "id": 19,
+                    "name": "esse",
+                    "description": "",
+                    "phone": "+14849495813",
+                    "marketing_phone": null,
+                    "email": "vbradtke@gmail.com",
+                    "slug": "nesciunt-repellat-aut-praesentium-quia-doloribus-eum-eveniet",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "pending",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 21,
+                "name": "voluptatum",
+                "slug": "et-consequatur-enim-natus-vel-pariatur-et"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": "2023-07-19T10:20:04.000000Z",
+            "created_at": "2023-07-19T10:20:04.000000Z"
+        },
+        {
+            "id": 3,
+            "name": "praesentium",
+            "name_extended": "praesentium",
+            "amount": 0,
+            "active": false,
+            "color": "#0d1c35",
+            "size": 618068,
+            "status": "confirmed",
+            "price": 23,
+            "brand": {
+                "id": 44,
+                "name": "deleniti",
+                "name_extended": "deleniti",
+                "date": "2013-07-16",
+                "description": "Quod voluptatem distinctio at consequatur id dolores recusandae. Nesciunt sequi distinctio est sed minima repellendus ratione omnis. Sunt sed inventore ratione inventore molestias.",
+                "company": {
+                    "id": 15,
+                    "name": "ea",
+                    "description": "",
+                    "phone": "978-669-3142",
+                    "marketing_phone": null,
+                    "email": "dominique76@gmail.com",
+                    "slug": "eum-aut-corporis-ullam-ut-quis-enim-amet-incidunt",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "rejected",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 25,
+                "name": "odit",
+                "slug": "sunt-temporibus-quia-omnis-doloremque-delectus-qui-ea"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": null,
+            "created_at": "2023-07-19T10:20:04.000000Z"
+        },
+        {
+            "id": 4,
+            "name": "corrupti",
+            "name_extended": "corrupti",
+            "amount": 0,
+            "active": true,
+            "color": "#a49e36",
+            "size": 912650,
+            "status": "waiting",
+            "price": 85,
+            "brand": {
+                "id": 23,
+                "name": "facere",
+                "name_extended": "facere",
+                "date": "1973-08-11",
+                "description": "Et ut corrupti perferendis accusantium consequatur explicabo maiores. Velit velit quidem non et velit omnis quisquam inventore. Mollitia aliquam minus explicabo minus aut quia sunt id.",
+                "company": {
+                    "id": 16,
+                    "name": "quidem",
+                    "description": "",
+                    "phone": "406.417.0505",
+                    "marketing_phone": null,
+                    "email": "garrick.dietrich@hotmail.com",
+                    "slug": "ad-quos-quasi-iusto-qui",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "rejected",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 10,
+                "name": "vitae",
+                "slug": "ipsam-aut-iusto-quasi-repellat-totam"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": null,
+            "created_at": "2023-07-19T10:20:04.000000Z"
+        },
+        {
+            "id": 5,
+            "name": "qui",
+            "name_extended": "qui",
+            "amount": 0,
+            "active": false,
+            "color": "#7144a4",
+            "size": 749750559,
+            "status": "rejected",
+            "price": 2,
+            "brand": {
+                "id": 41,
+                "name": "aperiam",
+                "name_extended": "aperiam",
+                "date": "2019-11-15",
+                "description": "Non architecto dolorem fuga similique. Molestias hic temporibus aperiam a distinctio ducimus. Voluptatem quisquam sed sint consectetur. A deserunt ut sed facilis dicta.",
+                "company": {
+                    "id": 10,
+                    "name": "hic",
+                    "description": "",
+                    "phone": "682-326-2776",
+                    "marketing_phone": null,
+                    "email": "hilton94@hotmail.com",
+                    "slug": "et-perspiciatis-aut-reprehenderit-et-atque",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "disabled",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 12,
+                "name": "provident",
+                "slug": "laudantium-quia-facilis-sit-dolores-explicabo"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": null,
+            "created_at": "2023-07-19T10:20:04.000000Z"
+        },
+        {
+            "id": 6,
+            "name": "architecto",
+            "name_extended": "architecto",
+            "amount": 69067,
+            "active": true,
+            "color": "#dc0257",
+            "size": 5,
+            "status": "rejected",
+            "price": 6500,
+            "brand": {
+                "id": 40,
+                "name": "officiis",
+                "name_extended": "officiis",
+                "date": "1974-12-10",
+                "description": "Ipsum est et accusamus distinctio rerum. Id et atque amet voluptatem dolorem. Rerum totam minima nam ducimus molestiae quo.",
+                "company": {
+                    "id": 27,
+                    "name": "eligendi",
+                    "description": "",
+                    "phone": "(820) 432-1523",
+                    "marketing_phone": null,
+                    "email": "ericka36@gmail.com",
+                    "slug": "velit-blanditiis-in-id-quo-soluta-in-et-eaque",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "disabled",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 22,
+                "name": "quia",
+                "slug": "velit-voluptate-qui-tempora-neque-distinctio"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": null,
+            "created_at": "2023-07-19T10:20:04.000000Z"
+        },
+        {
+            "id": 7,
+            "name": "reprehenderit",
+            "name_extended": "reprehenderit",
+            "amount": 0,
+            "active": true,
+            "color": "#313fd2",
+            "size": 913,
+            "status": "rejected",
+            "price": 3877,
+            "brand": {
+                "id": 26,
+                "name": "quod",
+                "name_extended": "quod",
+                "date": "1971-05-10",
+                "description": "Qui enim dignissimos sit et ipsam. Error animi corrupti nobis minus aspernatur. Voluptas quia culpa voluptas voluptates repellendus aut. Accusantium qui non sapiente quisquam nihil reprehenderit.",
+                "company": {
+                    "id": 12,
+                    "name": "consequatur",
+                    "description": "",
+                    "phone": "+1 (248) 303-6408",
+                    "marketing_phone": null,
+                    "email": "charlie29@ullrich.com",
+                    "slug": "sed-recusandae-eaque-dolorem-ipsa-quibusdam-quas-ab",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "pending",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 8,
+                "name": "repellat",
+                "slug": "optio-rerum-sint-mollitia-ullam-sequi"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": "2023-07-19T10:20:04.000000Z",
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 8,
+            "name": "amet",
+            "name_extended": "amet",
+            "amount": 0,
+            "active": true,
+            "color": "#855696",
+            "size": 503,
+            "status": "waiting",
+            "price": 78637086,
+            "brand": {
+                "id": 37,
+                "name": "dolores",
+                "name_extended": "dolores",
+                "date": "1971-09-11",
+                "description": "Veniam quia omnis cumque corporis voluptatem voluptatem. In corporis laudantium nesciunt est. Omnis eos voluptas dolorem quo provident.",
+                "company": {
+                    "id": 20,
+                    "name": "harum",
+                    "description": "",
+                    "phone": "1-586-533-6004",
+                    "marketing_phone": null,
+                    "email": "rick77@pfannerstill.com",
+                    "slug": "vitae-aut-incidunt-perferendis-id-quibusdam-ut-totam",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "rejected",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 4,
+                "name": "saepe",
+                "slug": "perspiciatis-nesciunt-neque-a-quis-at-et-laudantium"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": null,
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 9,
+            "name": "voluptas",
+            "name_extended": "voluptas",
+            "amount": 0,
+            "active": true,
+            "color": "#fb5e40",
+            "size": 19924,
+            "status": "rejected",
+            "price": 13568910,
+            "brand": {
+                "id": 25,
+                "name": "explicabo",
+                "name_extended": "explicabo",
+                "date": "2006-04-30",
+                "description": "Libero quia qui voluptate. Omnis amet autem veniam provident cumque iusto. Molestias et pariatur est laborum repudiandae neque. Voluptatum accusantium amet corporis laudantium similique tempore.",
+                "company": {
+                    "id": 22,
+                    "name": "molestiae",
+                    "description": "",
+                    "phone": "347.441.8305",
+                    "marketing_phone": null,
+                    "email": "acummerata@lesch.com",
+                    "slug": "error-neque-laboriosam-aperiam-dolore-accusantium-totam",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "rejected",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 26,
+                "name": "voluptatem",
+                "slug": "reprehenderit-dolorem-optio-placeat-autem-voluptas-dolorum-sint"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": "2023-07-19T10:20:04.000000Z",
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 10,
+            "name": "quae",
+            "name_extended": "quae",
+            "amount": 17647050,
+            "active": true,
+            "color": "#6227e0",
+            "size": 98,
+            "status": "confirmed",
+            "price": 992982,
+            "brand": {
+                "id": 46,
+                "name": "rerum",
+                "name_extended": "rerum",
+                "date": "2018-05-11",
+                "description": "Nobis exercitationem autem et nulla soluta dolore voluptas. Omnis distinctio et sunt beatae delectus temporibus. Facere cum officia doloribus autem dolorem. Id qui ut est fuga quasi dolores.",
+                "company": {
+                    "id": 2,
+                    "name": "velit",
+                    "description": "",
+                    "phone": "1-585-962-0977",
+                    "marketing_phone": null,
+                    "email": "lebsack.myrtie@mccullough.org",
+                    "slug": "ut-ab-atque-alias-deserunt-sit-omnis-nostrum",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "accepted",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 8,
+                "name": "repellat",
+                "slug": "optio-rerum-sint-mollitia-ullam-sequi"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": null,
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 11,
+            "name": "rerum",
+            "name_extended": "rerum",
+            "amount": 0,
+            "active": false,
+            "color": "#b0a7d1",
+            "size": 2,
+            "status": "confirmed",
+            "price": 372483745,
+            "brand": {
+                "id": 32,
+                "name": "eos",
+                "name_extended": "eos",
+                "date": "2014-06-01",
+                "description": "Libero vel omnis eaque nihil. Necessitatibus aut unde illo perspiciatis cum. Deleniti vel inventore aut quia.",
+                "company": {
+                    "id": 14,
+                    "name": "perferendis",
+                    "description": "",
+                    "phone": "(689) 579-9526",
+                    "marketing_phone": null,
+                    "email": "manley94@yahoo.com",
+                    "slug": "qui-mollitia-voluptas-officia-vel-velit",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "accepted",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 1,
+                "name": "est",
+                "slug": "sint-et-non-aut-dicta-quidem-deleniti"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": null,
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 12,
+            "name": "ad",
+            "name_extended": "ad",
+            "amount": 111965754,
+            "active": true,
+            "color": "#55cb55",
+            "size": 28823,
+            "status": "confirmed",
+            "price": 73,
+            "brand": {
+                "id": 18,
+                "name": "ex",
+                "name_extended": "ex",
+                "date": "1973-04-09",
+                "description": "Eos saepe similique dolorum qui consequatur. Id ducimus iste voluptatem expedita aut ipsum aliquid. Est saepe veniam odit eos soluta.",
+                "company": {
+                    "id": 26,
+                    "name": "inventore",
+                    "description": "",
+                    "phone": "+18788272252",
+                    "marketing_phone": null,
+                    "email": "margarita.okon@gmail.com",
+                    "slug": "sunt-sapiente-totam-voluptatibus-et-corrupti",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "rejected",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 21,
+                "name": "voluptatum",
+                "slug": "et-consequatur-enim-natus-vel-pariatur-et"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": "2023-07-19T10:20:04.000000Z",
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 13,
+            "name": "aut",
+            "name_extended": "aut",
+            "amount": 2527,
+            "active": false,
+            "color": "#3e28b2",
+            "size": 93177999,
+            "status": "waiting",
+            "price": 428866,
+            "brand": {
+                "id": 36,
+                "name": "non",
+                "name_extended": "non",
+                "date": "1993-07-04",
+                "description": "Molestiae et aperiam ex eaque et. Quia et eaque ducimus id. Unde nemo explicabo harum.",
+                "company": {
+                    "id": 7,
+                    "name": "minima",
+                    "description": "",
+                    "phone": "541.898.6056",
+                    "marketing_phone": null,
+                    "email": "gillian10@orn.com",
+                    "slug": "animi-molestiae-porro-voluptatibus-sit-id-dolores-sit",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "accepted",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 17,
+                "name": "quo",
+                "slug": "non-qui-autem-ut-ex-rerum-temporibus"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": "2023-07-19T10:20:04.000000Z",
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 14,
+            "name": "consectetur",
+            "name_extended": "consectetur",
+            "amount": 72,
+            "active": false,
+            "color": "#83902a",
+            "size": 1708,
+            "status": "confirmed",
+            "price": 515524,
+            "brand": {
+                "id": 32,
+                "name": "eos",
+                "name_extended": "eos",
+                "date": "2014-06-01",
+                "description": "Libero vel omnis eaque nihil. Necessitatibus aut unde illo perspiciatis cum. Deleniti vel inventore aut quia.",
+                "company": {
+                    "id": 14,
+                    "name": "perferendis",
+                    "description": "",
+                    "phone": "(689) 579-9526",
+                    "marketing_phone": null,
+                    "email": "manley94@yahoo.com",
+                    "slug": "qui-mollitia-voluptas-officia-vel-velit",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "accepted",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 25,
+                "name": "odit",
+                "slug": "sunt-temporibus-quia-omnis-doloremque-delectus-qui-ea"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": null,
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 15,
+            "name": "fugit",
+            "name_extended": "fugit",
+            "amount": 0,
+            "active": false,
+            "color": "#e38a83",
+            "size": 8960,
+            "status": "rejected",
+            "price": 10095,
+            "brand": {
+                "id": 40,
+                "name": "officiis",
+                "name_extended": "officiis",
+                "date": "1974-12-10",
+                "description": "Ipsum est et accusamus distinctio rerum. Id et atque amet voluptatem dolorem. Rerum totam minima nam ducimus molestiae quo.",
+                "company": {
+                    "id": 27,
+                    "name": "eligendi",
+                    "description": "",
+                    "phone": "(820) 432-1523",
+                    "marketing_phone": null,
+                    "email": "ericka36@gmail.com",
+                    "slug": "velit-blanditiis-in-id-quo-soluta-in-et-eaque",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "disabled",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 23,
+                "name": "iste",
+                "slug": "facilis-iusto-libero-illum-sit-aut-reprehenderit"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": null,
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 16,
+            "name": "non",
+            "name_extended": "non",
+            "amount": 0,
+            "active": true,
+            "color": "#9446ce",
+            "size": 7,
+            "status": "waiting",
+            "price": 8835,
+            "brand": {
+                "id": 17,
+                "name": "et",
+                "name_extended": "et",
+                "date": "1984-07-31",
+                "description": "Reprehenderit eaque nam incidunt a quasi non sed voluptatum. Enim mollitia voluptate sequi officia. Quia dignissimos repellendus quod voluptates.",
+                "company": {
+                    "id": 17,
+                    "name": "dolores",
+                    "description": "",
+                    "phone": "386-914-0366",
+                    "marketing_phone": null,
+                    "email": "zklocko@lynch.biz",
+                    "slug": "reprehenderit-quidem-enim-non-suscipit",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "pending",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 13,
+                "name": "quaerat",
+                "slug": "omnis-et-enim-enim-ex-et-assumenda-quia-ut"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": null,
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 17,
+            "name": "est",
+            "name_extended": "est",
+            "amount": 25533937,
+            "active": false,
+            "color": "#c21700",
+            "size": 247286,
+            "status": "waiting",
+            "price": 9870615,
+            "brand": {
+                "id": 42,
+                "name": "architecto",
+                "name_extended": "architecto",
+                "date": "2011-04-27",
+                "description": "Aliquam et et sequi. Distinctio natus rerum aut libero ad ratione. Tenetur aspernatur voluptas rerum. Necessitatibus blanditiis odio sit aspernatur.",
+                "company": {
+                    "id": 20,
+                    "name": "harum",
+                    "description": "",
+                    "phone": "1-586-533-6004",
+                    "marketing_phone": null,
+                    "email": "rick77@pfannerstill.com",
+                    "slug": "vitae-aut-incidunt-perferendis-id-quibusdam-ut-totam",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "pending",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 25,
+                "name": "odit",
+                "slug": "sunt-temporibus-quia-omnis-doloremque-delectus-qui-ea"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": "2023-07-19T10:20:04.000000Z",
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 18,
+            "name": "voluptas",
+            "name_extended": "voluptas",
+            "amount": 6622,
+            "active": true,
+            "color": "#466fb5",
+            "size": 321481,
+            "status": "confirmed",
+            "price": 184763693,
+            "brand": {
+                "id": 11,
+                "name": "eum",
+                "name_extended": "eum",
+                "date": "1995-12-04",
+                "description": "Ut ut non natus quas possimus eius quod. Qui nisi explicabo eum nemo eos repellat. Magnam ad quisquam beatae ut fugiat sit. Autem eaque et officia et in est nulla.",
+                "company": {
+                    "id": 28,
+                    "name": "nobis",
+                    "description": "",
+                    "phone": "1-913-291-1910",
+                    "marketing_phone": null,
+                    "email": "emmerich.leila@johnson.com",
+                    "slug": "sed-occaecati-velit-cumque",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "disabled",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 2,
+                "name": "ut",
+                "slug": "ratione-et-tempore-magnam-amet"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": "2023-07-19T10:20:04.000000Z",
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 19,
+            "name": "in",
+            "name_extended": "in",
+            "amount": 0,
+            "active": true,
+            "color": "#f85d6d",
+            "size": 98,
+            "status": "rejected",
+            "price": 2753946,
+            "brand": {
+                "id": 48,
+                "name": "qui",
+                "name_extended": "qui",
+                "date": "1981-04-07",
+                "description": "Est id odit quis eius. Eveniet similique amet sunt iusto. Nobis et recusandae eos. Vel deserunt occaecati aut exercitationem.",
+                "company": {
+                    "id": 25,
+                    "name": "aut",
+                    "description": "",
+                    "phone": "1-580-312-1305",
+                    "marketing_phone": null,
+                    "email": "tromp.selmer@hotmail.com",
+                    "slug": "dolores-qui-adipisci-distinctio-est-corporis-quo",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "pending",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 15,
+                "name": "dolorum",
+                "slug": "id-sequi-voluptate-ut-eligendi-tenetur-labore-accusantium"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": null,
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 20,
+            "name": "non",
+            "name_extended": "non",
+            "amount": 0,
+            "active": true,
+            "color": "#3f207e",
+            "size": 24093368,
+            "status": "waiting",
+            "price": 27,
+            "brand": {
+                "id": 9,
+                "name": "totam",
+                "name_extended": "totam",
+                "date": "1975-03-14",
+                "description": "Repellendus culpa impedit saepe fuga vel quod est autem. Voluptatem autem corporis voluptas mollitia vel ut minima. Blanditiis est nobis vero non.",
+                "company": {
+                    "id": 27,
+                    "name": "eligendi",
+                    "description": "",
+                    "phone": "(820) 432-1523",
+                    "marketing_phone": null,
+                    "email": "ericka36@gmail.com",
+                    "slug": "velit-blanditiis-in-id-quo-soluta-in-et-eaque",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "accepted",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 25,
+                "name": "odit",
+                "slug": "sunt-temporibus-quia-omnis-doloremque-delectus-qui-ea"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": null,
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 21,
+            "name": "ipsum",
+            "name_extended": "ipsum",
+            "amount": 0,
+            "active": true,
+            "color": "#79e459",
+            "size": 34273,
+            "status": "waiting",
+            "price": 784272593,
+            "brand": {
+                "id": 25,
+                "name": "explicabo",
+                "name_extended": "explicabo",
+                "date": "2006-04-30",
+                "description": "Libero quia qui voluptate. Omnis amet autem veniam provident cumque iusto. Molestias et pariatur est laborum repudiandae neque. Voluptatum accusantium amet corporis laudantium similique tempore.",
+                "company": {
+                    "id": 22,
+                    "name": "molestiae",
+                    "description": "",
+                    "phone": "347.441.8305",
+                    "marketing_phone": null,
+                    "email": "acummerata@lesch.com",
+                    "slug": "error-neque-laboriosam-aperiam-dolore-accusantium-totam",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "rejected",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 11,
+                "name": "omnis",
+                "slug": "aut-et-ducimus-qui-beatae-rerum-possimus-sit-illum"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": "2023-07-19T10:20:04.000000Z",
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 22,
+            "name": "amet",
+            "name_extended": "amet",
+            "amount": 286862002,
+            "active": false,
+            "color": "#4027e6",
+            "size": 455361234,
+            "status": "waiting",
+            "price": 5247,
+            "brand": {
+                "id": 27,
+                "name": "iusto",
+                "name_extended": "iusto",
+                "date": "2002-04-14",
+                "description": "Quisquam similique iste in ad rem iste porro voluptatem. Amet quidem omnis porro neque animi. Aliquam eum dolor ratione aut aut.",
+                "company": {
+                    "id": 17,
+                    "name": "dolores",
+                    "description": "",
+                    "phone": "386-914-0366",
+                    "marketing_phone": null,
+                    "email": "zklocko@lynch.biz",
+                    "slug": "reprehenderit-quidem-enim-non-suscipit",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "rejected",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 4,
+                "name": "saepe",
+                "slug": "perspiciatis-nesciunt-neque-a-quis-at-et-laudantium"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": null,
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 23,
+            "name": "reiciendis",
+            "name_extended": "reiciendis",
+            "amount": 31530564,
+            "active": false,
+            "color": "#aee17e",
+            "size": 749540,
+            "status": "rejected",
+            "price": 80,
+            "brand": {
+                "id": 45,
+                "name": "eius",
+                "name_extended": "eius",
+                "date": "2019-05-10",
+                "description": "Rem enim est quia quisquam ducimus id beatae. Modi delectus assumenda delectus accusantium tempore. Assumenda facere vel ab beatae eligendi in temporibus. Dolorem quis nemo eligendi excepturi.",
+                "company": {
+                    "id": 12,
+                    "name": "consequatur",
+                    "description": "",
+                    "phone": "+1 (248) 303-6408",
+                    "marketing_phone": null,
+                    "email": "charlie29@ullrich.com",
+                    "slug": "sed-recusandae-eaque-dolorem-ipsa-quibusdam-quas-ab",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "disabled",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 30,
+                "name": "rem",
+                "slug": "veritatis-reprehenderit-et-quia-odit-dolorem-aliquam"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": null,
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 24,
+            "name": "sequi",
+            "name_extended": "sequi",
+            "amount": 617184,
+            "active": false,
+            "color": "#ac39bd",
+            "size": 312,
+            "status": "rejected",
+            "price": 2803,
+            "brand": {
+                "id": 49,
+                "name": "esse",
+                "name_extended": "esse",
+                "date": "1986-05-29",
+                "description": "Quo et error omnis nam. Reiciendis aperiam quis dolorum ut. Ut omnis dolorem accusantium tempore.",
+                "company": {
+                    "id": 19,
+                    "name": "esse",
+                    "description": "",
+                    "phone": "+14849495813",
+                    "marketing_phone": null,
+                    "email": "vbradtke@gmail.com",
+                    "slug": "nesciunt-repellat-aut-praesentium-quia-doloribus-eum-eveniet",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "disabled",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 24,
+                "name": "unde",
+                "slug": "et-doloremque-et-reprehenderit-temporibus"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": "2023-07-19T10:20:04.000000Z",
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 25,
+            "name": "perspiciatis",
+            "name_extended": "perspiciatis",
+            "amount": 0,
+            "active": true,
+            "color": "#daf954",
+            "size": 6078,
+            "status": "confirmed",
+            "price": 37801326,
+            "brand": {
+                "id": 9,
+                "name": "totam",
+                "name_extended": "totam",
+                "date": "1975-03-14",
+                "description": "Repellendus culpa impedit saepe fuga vel quod est autem. Voluptatem autem corporis voluptas mollitia vel ut minima. Blanditiis est nobis vero non.",
+                "company": {
+                    "id": 27,
+                    "name": "eligendi",
+                    "description": "",
+                    "phone": "(820) 432-1523",
+                    "marketing_phone": null,
+                    "email": "ericka36@gmail.com",
+                    "slug": "velit-blanditiis-in-id-quo-soluta-in-et-eaque",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "accepted",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 5,
+                "name": "quia",
+                "slug": "cumque-dolorum-ipsum-dolores-accusamus-distinctio-sed-et-nesciunt"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": null,
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 26,
+            "name": "consectetur",
+            "name_extended": "consectetur",
+            "amount": 0,
+            "active": false,
+            "color": "#d9b923",
+            "size": 7,
+            "status": "waiting",
+            "price": 573,
+            "brand": {
+                "id": 2,
+                "name": "necessitatibus",
+                "name_extended": "necessitatibus 64GB red",
+                "date": "1979-10-01",
+                "description": "Voluptatum ut natus esse enim eos sit dignissimos. Debitis et necessitatibus et voluptatibus autem est et. Quo neque aut consequatur tempore rerum dolorum voluptas.",
+                "company": {
+                    "id": 21,
+                    "name": "aut",
+                    "description": "",
+                    "phone": "+1.410.535.1523",
+                    "marketing_phone": null,
+                    "email": "annabelle.mccullough@wilkinson.com",
+                    "slug": "libero-eos-consequatur-quis-sapiente-error",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [
+                    {
+                        "attribute": {
+                            "id": 4,
+                            "name": "saepe"
+                        },
+                        "value": {
+                            "id": 4,
+                            "name": "64GB"
+                        },
+                        "is_name_part": true
+                    },
+                    {
+                        "attribute": {
+                            "id": 2,
+                            "name": "est"
+                        },
+                        "value": {
+                            "id": 5,
+                            "name": "vitae"
+                        },
+                        "is_name_part": false
+                    },
+                    {
+                        "attribute": {
+                            "id": 3,
+                            "name": "sit"
+                        },
+                        "value": {
+                            "id": 3,
+                            "name": "red"
+                        },
+                        "is_name_part": true
+                    }
+                ],
+                "logo": null,
+                "status": "rejected",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 21,
+                "name": "voluptatum",
+                "slug": "et-consequatur-enim-natus-vel-pariatur-et"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": "2023-07-19T10:20:04.000000Z",
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 27,
+            "name": "id",
+            "name_extended": "id",
+            "amount": 26426699,
+            "active": false,
+            "color": "#aad90f",
+            "size": 54477029,
+            "status": "waiting",
+            "price": 7,
+            "brand": {
+                "id": 31,
+                "name": "neque",
+                "name_extended": "neque",
+                "date": "1977-04-04",
+                "description": "Magnam hic in occaecati. Explicabo minus perferendis facere. Porro animi aspernatur velit eveniet ad soluta. Dolor iure iure nisi est.",
+                "company": {
+                    "id": 19,
+                    "name": "esse",
+                    "description": "",
+                    "phone": "+14849495813",
+                    "marketing_phone": null,
+                    "email": "vbradtke@gmail.com",
+                    "slug": "nesciunt-repellat-aut-praesentium-quia-doloribus-eum-eveniet",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "disabled",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 10,
+                "name": "vitae",
+                "slug": "ipsam-aut-iusto-quasi-repellat-totam"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": "2023-07-19T10:20:04.000000Z",
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 28,
+            "name": "enim",
+            "name_extended": "enim",
+            "amount": 78,
+            "active": true,
+            "color": "#001d61",
+            "size": 79,
+            "status": "waiting",
+            "price": 4879,
+            "brand": {
+                "id": 47,
+                "name": "distinctio",
+                "name_extended": "distinctio",
+                "date": "2010-06-23",
+                "description": "Quia blanditiis et enim soluta dignissimos incidunt. Vel voluptate totam illo dolore. Et magnam ab omnis beatae beatae. Dolor quia possimus atque est officia.",
+                "company": {
+                    "id": 19,
+                    "name": "esse",
+                    "description": "",
+                    "phone": "+14849495813",
+                    "marketing_phone": null,
+                    "email": "vbradtke@gmail.com",
+                    "slug": "nesciunt-repellat-aut-praesentium-quia-doloribus-eum-eveniet",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "pending",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 29,
+                "name": "magni",
+                "slug": "explicabo-eos-officiis-pariatur"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": "2023-07-19T10:20:04.000000Z",
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 29,
+            "name": "ratione",
+            "name_extended": "ratione",
+            "amount": 0,
+            "active": false,
+            "color": "#a03167",
+            "size": 987883,
+            "status": "waiting",
+            "price": 1718,
+            "brand": {
+                "id": 49,
+                "name": "esse",
+                "name_extended": "esse",
+                "date": "1986-05-29",
+                "description": "Quo et error omnis nam. Reiciendis aperiam quis dolorum ut. Ut omnis dolorem accusantium tempore.",
+                "company": {
+                    "id": 19,
+                    "name": "esse",
+                    "description": "",
+                    "phone": "+14849495813",
+                    "marketing_phone": null,
+                    "email": "vbradtke@gmail.com",
+                    "slug": "nesciunt-repellat-aut-praesentium-quia-doloribus-eum-eveniet",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "disabled",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 26,
+                "name": "voluptatem",
+                "slug": "reprehenderit-dolorem-optio-placeat-autem-voluptas-dolorum-sint"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": "2023-07-19T10:20:04.000000Z",
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 30,
+            "name": "voluptas",
+            "name_extended": "voluptas",
+            "amount": 92,
+            "active": false,
+            "color": "#920f70",
+            "size": 4142,
+            "status": "waiting",
+            "price": 33430,
+            "brand": {
+                "id": 5,
+                "name": "eveniet",
+                "name_extended": "eveniet",
+                "date": "2004-07-06",
+                "description": "Provident mollitia amet ut sapiente quas commodi ea. Et perspiciatis ut distinctio alias. Eos in laborum veritatis ullam. Quas impedit cum error quia corrupti.",
+                "company": {
+                    "id": 8,
+                    "name": "asperiores",
+                    "description": "",
+                    "phone": "1-586-917-8560",
+                    "marketing_phone": null,
+                    "email": "vbrekke@barrows.com",
+                    "slug": "autem-quia-reiciendis-voluptatibus",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "rejected",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 15,
+                "name": "dolorum",
+                "slug": "id-sequi-voluptate-ut-eligendi-tenetur-labore-accusantium"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": "2023-07-19T10:20:04.000000Z",
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 31,
+            "name": "eos",
+            "name_extended": "eos",
+            "amount": 1945,
+            "active": false,
+            "color": "#cd5b1a",
+            "size": 94220,
+            "status": "confirmed",
+            "price": 475,
+            "brand": {
+                "id": 8,
+                "name": "non",
+                "name_extended": "non",
+                "date": "1998-07-09",
+                "description": "Vero illo iste veniam assumenda molestias dolor. Dolore pariatur nemo explicabo laborum molestiae. Minima voluptatibus aliquid velit asperiores veritatis est vero. Qui pariatur sit ipsam tenetur.",
+                "company": {
+                    "id": 30,
+                    "name": "saepe",
+                    "description": "",
+                    "phone": "+1 (234) 903-6653",
+                    "marketing_phone": null,
+                    "email": "christiansen.douglas@gmail.com",
+                    "slug": "libero-esse-deleniti-sed",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "pending",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 11,
+                "name": "omnis",
+                "slug": "aut-et-ducimus-qui-beatae-rerum-possimus-sit-illum"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": null,
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 32,
+            "name": "sit",
+            "name_extended": "sit",
+            "amount": 297829147,
+            "active": true,
+            "color": "#0cf54c",
+            "size": 96,
+            "status": "rejected",
+            "price": 282444598,
+            "brand": {
+                "id": 43,
+                "name": "numquam",
+                "name_extended": "numquam",
+                "date": "1980-06-20",
+                "description": "Maiores aut tempora maxime enim cumque quia voluptas. Qui commodi dolorum magni omnis. Nemo nostrum est consequatur dolor. Voluptatum delectus minima ex sit quia velit.",
+                "company": {
+                    "id": 27,
+                    "name": "eligendi",
+                    "description": "",
+                    "phone": "(820) 432-1523",
+                    "marketing_phone": null,
+                    "email": "ericka36@gmail.com",
+                    "slug": "velit-blanditiis-in-id-quo-soluta-in-et-eaque",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "rejected",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 25,
+                "name": "odit",
+                "slug": "sunt-temporibus-quia-omnis-doloremque-delectus-qui-ea"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": "2023-07-19T10:20:04.000000Z",
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 33,
+            "name": "totam",
+            "name_extended": "totam",
+            "amount": 4856405,
+            "active": false,
+            "color": "#4eb8f2",
+            "size": 30386,
+            "status": "rejected",
+            "price": 973650,
+            "brand": {
+                "id": 29,
+                "name": "esse",
+                "name_extended": "esse",
+                "date": "1993-11-23",
+                "description": "Enim voluptatem et in quo voluptatem quis temporibus. Dolorum ad totam neque minus ab. Omnis vel in soluta.",
+                "company": {
+                    "id": 26,
+                    "name": "inventore",
+                    "description": "",
+                    "phone": "+18788272252",
+                    "marketing_phone": null,
+                    "email": "margarita.okon@gmail.com",
+                    "slug": "sunt-sapiente-totam-voluptatibus-et-corrupti",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "disabled",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 17,
+                "name": "quo",
+                "slug": "non-qui-autem-ut-ex-rerum-temporibus"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": null,
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 34,
+            "name": "nisi",
+            "name_extended": "nisi",
+            "amount": 0,
+            "active": false,
+            "color": "#a54718",
+            "size": 718082544,
+            "status": "confirmed",
+            "price": 57592,
+            "brand": {
+                "id": 10,
+                "name": "nisi",
+                "name_extended": "nisi",
+                "date": "1970-12-08",
+                "description": "Quis similique aut reiciendis cupiditate. Et est voluptates aliquid consequatur aliquam.",
+                "company": {
+                    "id": 27,
+                    "name": "eligendi",
+                    "description": "",
+                    "phone": "(820) 432-1523",
+                    "marketing_phone": null,
+                    "email": "ericka36@gmail.com",
+                    "slug": "velit-blanditiis-in-id-quo-soluta-in-et-eaque",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "disabled",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 8,
+                "name": "repellat",
+                "slug": "optio-rerum-sint-mollitia-ullam-sequi"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": null,
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 35,
+            "name": "nihil",
+            "name_extended": "nihil",
+            "amount": 83790,
+            "active": false,
+            "color": "#108258",
+            "size": 91941,
+            "status": "confirmed",
+            "price": 469178652,
+            "brand": {
+                "id": 3,
+                "name": "unde",
+                "name_extended": "unde",
+                "date": "2013-05-21",
+                "description": "Deleniti veniam quo odio ad eum. Earum molestiae ullam amet repellat iure laudantium. Nam officiis dolores dolore tempore.",
+                "company": {
+                    "id": 16,
+                    "name": "quidem",
+                    "description": "",
+                    "phone": "406.417.0505",
+                    "marketing_phone": null,
+                    "email": "garrick.dietrich@hotmail.com",
+                    "slug": "ad-quos-quasi-iusto-qui",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "rejected",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 16,
+                "name": "magnam",
+                "slug": "atque-earum-dolorem-ratione"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": null,
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 36,
+            "name": "omnis",
+            "name_extended": "omnis",
+            "amount": 8,
+            "active": false,
+            "color": "#8d6bf6",
+            "size": 63,
+            "status": "confirmed",
+            "price": 7,
+            "brand": {
+                "id": 26,
+                "name": "quod",
+                "name_extended": "quod",
+                "date": "1971-05-10",
+                "description": "Qui enim dignissimos sit et ipsam. Error animi corrupti nobis minus aspernatur. Voluptas quia culpa voluptas voluptates repellendus aut. Accusantium qui non sapiente quisquam nihil reprehenderit.",
+                "company": {
+                    "id": 12,
+                    "name": "consequatur",
+                    "description": "",
+                    "phone": "+1 (248) 303-6408",
+                    "marketing_phone": null,
+                    "email": "charlie29@ullrich.com",
+                    "slug": "sed-recusandae-eaque-dolorem-ipsa-quibusdam-quas-ab",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "pending",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 17,
+                "name": "quo",
+                "slug": "non-qui-autem-ut-ex-rerum-temporibus"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": "2023-07-19T10:20:04.000000Z",
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 37,
+            "name": "ipsum",
+            "name_extended": "ipsum",
+            "amount": 0,
+            "active": true,
+            "color": "#65dd69",
+            "size": 98835495,
+            "status": "confirmed",
+            "price": 868893190,
+            "brand": {
+                "id": 39,
+                "name": "sint",
+                "name_extended": "sint",
+                "date": "1973-04-02",
+                "description": "Incidunt qui odio tenetur eaque inventore omnis praesentium. Rerum et ratione et. Fuga qui id voluptatem at deleniti modi molestias ut. Nulla autem et eius eos doloremque animi.",
+                "company": {
+                    "id": 5,
+                    "name": "qui",
+                    "description": "",
+                    "phone": "+1-650-228-1478",
+                    "marketing_phone": null,
+                    "email": "okeefe.ernest@oconnell.com",
+                    "slug": "nostrum-quisquam-ut-rerum-omnis-deserunt-et-iusto",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "rejected",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 14,
+                "name": "sunt",
+                "slug": "eveniet-aliquam-sequi-commodi-omnis-et-saepe-earum"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": "2023-07-19T10:20:04.000000Z",
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 38,
+            "name": "nostrum",
+            "name_extended": "nostrum",
+            "amount": 0,
+            "active": false,
+            "color": "#35571a",
+            "size": 575363,
+            "status": "confirmed",
+            "price": 81,
+            "brand": {
+                "id": 27,
+                "name": "iusto",
+                "name_extended": "iusto",
+                "date": "2002-04-14",
+                "description": "Quisquam similique iste in ad rem iste porro voluptatem. Amet quidem omnis porro neque animi. Aliquam eum dolor ratione aut aut.",
+                "company": {
+                    "id": 17,
+                    "name": "dolores",
+                    "description": "",
+                    "phone": "386-914-0366",
+                    "marketing_phone": null,
+                    "email": "zklocko@lynch.biz",
+                    "slug": "reprehenderit-quidem-enim-non-suscipit",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "rejected",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 23,
+                "name": "iste",
+                "slug": "facilis-iusto-libero-illum-sit-aut-reprehenderit"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": null,
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 39,
+            "name": "minus",
+            "name_extended": "minus",
+            "amount": 0,
+            "active": false,
+            "color": "#b67e01",
+            "size": 85,
+            "status": "confirmed",
+            "price": 47925,
+            "brand": {
+                "id": 2,
+                "name": "necessitatibus",
+                "name_extended": "necessitatibus 64GB red",
+                "date": "1979-10-01",
+                "description": "Voluptatum ut natus esse enim eos sit dignissimos. Debitis et necessitatibus et voluptatibus autem est et. Quo neque aut consequatur tempore rerum dolorum voluptas.",
+                "company": {
+                    "id": 21,
+                    "name": "aut",
+                    "description": "",
+                    "phone": "+1.410.535.1523",
+                    "marketing_phone": null,
+                    "email": "annabelle.mccullough@wilkinson.com",
+                    "slug": "libero-eos-consequatur-quis-sapiente-error",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [
+                    {
+                        "attribute": {
+                            "id": 4,
+                            "name": "saepe"
+                        },
+                        "value": {
+                            "id": 4,
+                            "name": "64GB"
+                        },
+                        "is_name_part": true
+                    },
+                    {
+                        "attribute": {
+                            "id": 2,
+                            "name": "est"
+                        },
+                        "value": {
+                            "id": 5,
+                            "name": "vitae"
+                        },
+                        "is_name_part": false
+                    },
+                    {
+                        "attribute": {
+                            "id": 3,
+                            "name": "sit"
+                        },
+                        "value": {
+                            "id": 3,
+                            "name": "red"
+                        },
+                        "is_name_part": true
+                    }
+                ],
+                "logo": null,
+                "status": "rejected",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 22,
+                "name": "quia",
+                "slug": "velit-voluptate-qui-tempora-neque-distinctio"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": null,
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 40,
+            "name": "non",
+            "name_extended": "non",
+            "amount": 41,
+            "active": false,
+            "color": "#3cd580",
+            "size": 4229,
+            "status": "waiting",
+            "price": 9174,
+            "brand": {
+                "id": 42,
+                "name": "architecto",
+                "name_extended": "architecto",
+                "date": "2011-04-27",
+                "description": "Aliquam et et sequi. Distinctio natus rerum aut libero ad ratione. Tenetur aspernatur voluptas rerum. Necessitatibus blanditiis odio sit aspernatur.",
+                "company": {
+                    "id": 20,
+                    "name": "harum",
+                    "description": "",
+                    "phone": "1-586-533-6004",
+                    "marketing_phone": null,
+                    "email": "rick77@pfannerstill.com",
+                    "slug": "vitae-aut-incidunt-perferendis-id-quibusdam-ut-totam",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "pending",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 2,
+                "name": "ut",
+                "slug": "ratione-et-tempore-magnam-amet"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": "2023-07-19T10:20:04.000000Z",
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 41,
+            "name": "cum",
+            "name_extended": "cum",
+            "amount": 9846693,
+            "active": true,
+            "color": "#869a90",
+            "size": 196,
+            "status": "waiting",
+            "price": 58632089,
+            "brand": {
+                "id": 33,
+                "name": "veniam",
+                "name_extended": "veniam",
+                "date": "1970-12-26",
+                "description": "Aut libero assumenda nam debitis ea tenetur. Voluptas mollitia tempore corrupti sit ut quia facere. Quis perferendis facilis est dolores at voluptatem velit.",
+                "company": {
+                    "id": 13,
+                    "name": "ducimus",
+                    "description": "",
+                    "phone": "+1-276-278-9034",
+                    "marketing_phone": null,
+                    "email": "jacques.prosacco@hotmail.com",
+                    "slug": "aspernatur-non-tempora-eum-itaque-rem-harum",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "pending",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 9,
+                "name": "soluta",
+                "slug": "consectetur-nobis-non-ut-et-voluptatem-occaecati"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": null,
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 42,
+            "name": "animi",
+            "name_extended": "animi",
+            "amount": 1,
+            "active": false,
+            "color": "#00e5ac",
+            "size": 54,
+            "status": "waiting",
+            "price": 7,
+            "brand": {
+                "id": 15,
+                "name": "ad",
+                "name_extended": "ad",
+                "date": "2017-01-27",
+                "description": "Harum debitis ad accusantium sequi non. Excepturi dolor laudantium officiis corporis sit. Ut velit eos quam ratione optio. Pariatur expedita molestiae earum magnam omnis cum est.",
+                "company": {
+                    "id": 22,
+                    "name": "molestiae",
+                    "description": "",
+                    "phone": "347.441.8305",
+                    "marketing_phone": null,
+                    "email": "acummerata@lesch.com",
+                    "slug": "error-neque-laboriosam-aperiam-dolore-accusantium-totam",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "rejected",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 3,
+                "name": "dolores",
+                "slug": "eveniet-magnam-beatae-maxime-doloribus-cupiditate-et-eaque"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": null,
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 43,
+            "name": "id",
+            "name_extended": "id",
+            "amount": 79679748,
+            "active": true,
+            "color": "#574463",
+            "size": 7499883,
+            "status": "rejected",
+            "price": 4298,
+            "brand": {
+                "id": 32,
+                "name": "eos",
+                "name_extended": "eos",
+                "date": "2014-06-01",
+                "description": "Libero vel omnis eaque nihil. Necessitatibus aut unde illo perspiciatis cum. Deleniti vel inventore aut quia.",
+                "company": {
+                    "id": 14,
+                    "name": "perferendis",
+                    "description": "",
+                    "phone": "(689) 579-9526",
+                    "marketing_phone": null,
+                    "email": "manley94@yahoo.com",
+                    "slug": "qui-mollitia-voluptas-officia-vel-velit",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "accepted",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 9,
+                "name": "soluta",
+                "slug": "consectetur-nobis-non-ut-et-voluptatem-occaecati"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": null,
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 44,
+            "name": "in",
+            "name_extended": "in",
+            "amount": 0,
+            "active": true,
+            "color": "#87cc9e",
+            "size": 550852,
+            "status": "rejected",
+            "price": 4633838,
+            "brand": {
+                "id": 13,
+                "name": "ullam",
+                "name_extended": "ullam",
+                "date": "1981-01-30",
+                "description": "Hic suscipit et exercitationem. Sed ad voluptatem quam dolores. Esse consequuntur sequi dolor nobis architecto voluptatem impedit provident.",
+                "company": {
+                    "id": 13,
+                    "name": "ducimus",
+                    "description": "",
+                    "phone": "+1-276-278-9034",
+                    "marketing_phone": null,
+                    "email": "jacques.prosacco@hotmail.com",
+                    "slug": "aspernatur-non-tempora-eum-itaque-rem-harum",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "pending",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 25,
+                "name": "odit",
+                "slug": "sunt-temporibus-quia-omnis-doloremque-delectus-qui-ea"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": "2023-07-19T10:20:04.000000Z",
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 45,
+            "name": "dolorum",
+            "name_extended": "dolorum",
+            "amount": 0,
+            "active": false,
+            "color": "#f09259",
+            "size": 423,
+            "status": "confirmed",
+            "price": 44659920,
+            "brand": {
+                "id": 32,
+                "name": "eos",
+                "name_extended": "eos",
+                "date": "2014-06-01",
+                "description": "Libero vel omnis eaque nihil. Necessitatibus aut unde illo perspiciatis cum. Deleniti vel inventore aut quia.",
+                "company": {
+                    "id": 14,
+                    "name": "perferendis",
+                    "description": "",
+                    "phone": "(689) 579-9526",
+                    "marketing_phone": null,
+                    "email": "manley94@yahoo.com",
+                    "slug": "qui-mollitia-voluptas-officia-vel-velit",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "accepted",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 7,
+                "name": "commodi",
+                "slug": "aspernatur-earum-in-dolorem-excepturi-ut-sunt"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": null,
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 46,
+            "name": "labore",
+            "name_extended": "labore",
+            "amount": 0,
+            "active": false,
+            "color": "#9f1f45",
+            "size": 40,
+            "status": "rejected",
+            "price": 27757,
+            "brand": {
+                "id": 47,
+                "name": "distinctio",
+                "name_extended": "distinctio",
+                "date": "2010-06-23",
+                "description": "Quia blanditiis et enim soluta dignissimos incidunt. Vel voluptate totam illo dolore. Et magnam ab omnis beatae beatae. Dolor quia possimus atque est officia.",
+                "company": {
+                    "id": 19,
+                    "name": "esse",
+                    "description": "",
+                    "phone": "+14849495813",
+                    "marketing_phone": null,
+                    "email": "vbradtke@gmail.com",
+                    "slug": "nesciunt-repellat-aut-praesentium-quia-doloribus-eum-eveniet",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "pending",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 5,
+                "name": "quia",
+                "slug": "cumque-dolorum-ipsum-dolores-accusamus-distinctio-sed-et-nesciunt"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": "2023-07-19T10:20:04.000000Z",
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 47,
+            "name": "omnis",
+            "name_extended": "omnis",
+            "amount": 0,
+            "active": false,
+            "color": "#c4aa0b",
+            "size": 97,
+            "status": "confirmed",
+            "price": 5588746,
+            "brand": {
+                "id": 3,
+                "name": "unde",
+                "name_extended": "unde",
+                "date": "2013-05-21",
+                "description": "Deleniti veniam quo odio ad eum. Earum molestiae ullam amet repellat iure laudantium. Nam officiis dolores dolore tempore.",
+                "company": {
+                    "id": 16,
+                    "name": "quidem",
+                    "description": "",
+                    "phone": "406.417.0505",
+                    "marketing_phone": null,
+                    "email": "garrick.dietrich@hotmail.com",
+                    "slug": "ad-quos-quasi-iusto-qui",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "rejected",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 28,
+                "name": "et",
+                "slug": "aut-voluptatem-corporis-impedit-perferendis-molestiae-quo-quia"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": "2023-07-19T10:20:04.000000Z",
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 48,
+            "name": "ex",
+            "name_extended": "ex",
+            "amount": 0,
+            "active": true,
+            "color": "#b6c692",
+            "size": 5450,
+            "status": "rejected",
+            "price": 95,
+            "brand": {
+                "id": 8,
+                "name": "non",
+                "name_extended": "non",
+                "date": "1998-07-09",
+                "description": "Vero illo iste veniam assumenda molestias dolor. Dolore pariatur nemo explicabo laborum molestiae. Minima voluptatibus aliquid velit asperiores veritatis est vero. Qui pariatur sit ipsam tenetur.",
+                "company": {
+                    "id": 30,
+                    "name": "saepe",
+                    "description": "",
+                    "phone": "+1 (234) 903-6653",
+                    "marketing_phone": null,
+                    "email": "christiansen.douglas@gmail.com",
+                    "slug": "libero-esse-deleniti-sed",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "pending",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 12,
+                "name": "provident",
+                "slug": "laudantium-quia-facilis-sit-dolores-explicabo"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": null,
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 49,
+            "name": "ea",
+            "name_extended": "ea",
+            "amount": 0,
+            "active": true,
+            "color": "#f6e772",
+            "size": 500536145,
+            "status": "waiting",
+            "price": 2091179,
+            "brand": {
+                "id": 17,
+                "name": "et",
+                "name_extended": "et",
+                "date": "1984-07-31",
+                "description": "Reprehenderit eaque nam incidunt a quasi non sed voluptatum. Enim mollitia voluptate sequi officia. Quia dignissimos repellendus quod voluptates.",
+                "company": {
+                    "id": 17,
+                    "name": "dolores",
+                    "description": "",
+                    "phone": "386-914-0366",
+                    "marketing_phone": null,
+                    "email": "zklocko@lynch.biz",
+                    "slug": "reprehenderit-quidem-enim-non-suscipit",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "pending",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 10,
+                "name": "vitae",
+                "slug": "ipsam-aut-iusto-quasi-repellat-totam"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": null,
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        },
+        {
+            "id": 50,
+            "name": "corrupti",
+            "name_extended": "corrupti",
+            "amount": 3236614,
+            "active": false,
+            "color": "#8b57cc",
+            "size": 1,
+            "status": "rejected",
+            "price": 4,
+            "brand": {
+                "id": 18,
+                "name": "ex",
+                "name_extended": "ex",
+                "date": "1973-04-09",
+                "description": "Eos saepe similique dolorum qui consequatur. Id ducimus iste voluptatem expedita aut ipsum aliquid. Est saepe veniam odit eos soluta.",
+                "company": {
+                    "id": 26,
+                    "name": "inventore",
+                    "description": "",
+                    "phone": "+18788272252",
+                    "marketing_phone": null,
+                    "email": "margarita.okon@gmail.com",
+                    "slug": "sunt-sapiente-totam-voluptatibus-et-corrupti",
+                    "socials": {
+                        "website": null,
+                        "facebook": null,
+                        "instagram": null,
+                        "whatsapp": null,
+                        "viber": null
+                    }
+                },
+                "attributes": [],
+                "logo": null,
+                "status": "rejected",
+                "created_at": "2023-07-19T10:20:04.000000Z"
+            },
+            "category": {
+                "id": 30,
+                "name": "rem",
+                "slug": "veritatis-reprehenderit-et-quia-odit-dolorem-aliquam"
+            },
+            "images": [],
+            "attributes": [],
+            "accepted_at": "2023-07-19T10:20:04.000000Z",
+            "created_at": "2023-07-19T10:20:05.000000Z"
+        }
+    ]
+}

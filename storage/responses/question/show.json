@@ -1,0 +1,9 @@
+{
+    "success": true,
+    "message": "Вопрос и ответ",
+    "data": {
+        "id": 2,
+        "question": "question",
+        "answer": "answer"
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "success": true,
+    "message": "Searchable field created",
+    "data": {
+        "id": 236,
+        "model_field_id": {
+            "id": 1,
+            "name": "attributable_type",
+            "slug": "attributable_type"
+        },
+        "searchable_model_id": {
+            "id": 1,
+            "priority": 460,
+            "count": 2
+        },
+        "priority": 1
+    }
+}

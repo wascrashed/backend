@@ -1,0 +1,10 @@
+{
+    "success": true,
+    "message": "Company detail",
+    "data": {
+        "id": 1,
+        "name": "Apple",
+        "slug": "apple",
+        "parent_id": "1"
+    }
+}

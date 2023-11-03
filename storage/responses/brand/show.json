@@ -1,0 +1,83 @@
+{
+    "success": true,
+    "message": "Brand detail",
+    "data": {
+        "id": 1,
+        "name": "Adidas",
+        "name_extended": "Adidas kits",
+        "date": "1997-03-04",
+        "description": "Dolores cupiditate omnis ipsum sequi atque. Sit quam consequatur ab voluptatem velit ut. Perspiciatis hic qui aut nisi harum nam nobis. Minima aut unde a eaque beatae.",
+        "company": {
+            "id": 1,
+            "name": "facere",
+            "description": "",
+            "phone": "410-879-1383",
+            "marketing_phone": null,
+            "email": "isaac36@gmail.com",
+            "slug": "quas-consectetur-eos-eum-eligendi-quia",
+            "socials": {
+                "website": null,
+                "facebook": null,
+                "instagram": null,
+                "whatsapp": null,
+                "viber": null
+            }
+        },
+        "country": {
+            "id": 7,
+            "name": "Andorra",
+            "code": "AD"
+        },
+        "products": [],
+        "attributes": [
+            {
+                "attribute": {
+                    "id": 1,
+                    "name": "esse"
+                },
+                "value": {
+                    "id": 4,
+                    "name": "64GB"
+                },
+                "is_name_part": true
+            },
+            {
+                "attribute": {
+                    "id": 2,
+                    "name": "est"
+                },
+                "value": {
+                    "id": 5,
+                    "name": "vitae"
+                },
+                "is_name_part": false
+            },
+            {
+                "attribute": {
+                    "id": 3,
+                    "name": "sit"
+                },
+                "value": {
+                    "id": 3,
+                    "name": "red"
+                },
+                "is_name_part": true
+            },
+            {
+                "attribute": {
+                    "id": 4,
+                    "name": "saepe"
+                },
+                "value": {
+                    "id": 4,
+                    "name": "64GB"
+                },
+                "is_name_part": false
+            }
+        ],
+        "rejections": [],
+        "logo": null,
+        "status": "pending",
+        "created_at": "2023-07-19T10:20:04.000000Z"
+    }
+}

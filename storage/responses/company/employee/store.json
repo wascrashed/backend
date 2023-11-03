@@ -1,0 +1,15 @@
+{
+    "success": true,
+    "message": "Сотрудник успешно зарегистрирован и пароль отправлен на его почту",
+    "data": {
+        "id": 2,
+        "user": {
+            "id": 1,
+            "name": "Admin Adminov",
+            "email": "admin@admin.com",
+            "created_at": "2023-07-16T11:22:17.000000Z"
+        },
+        "username": "something",
+        "registered_at": "2023-07-17T06:57:54.000000Z"
+    }
+}

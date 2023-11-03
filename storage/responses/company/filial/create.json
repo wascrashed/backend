@@ -1,0 +1,35 @@
+{
+    "success": true,
+    "message": "Filial created",
+    "data": {
+        "id": 27,
+        "name": "name en",
+        "phone": "+123 12 34 56",
+        "address": "Some address 56-123",
+        "coordinates": {
+            "latitude": "123123.123",
+            "longitude": "123123.123"
+        },
+        "schedule": [
+            {
+                "open_at": "09:25",
+                "close_at": "19:00",
+                "day": 1,
+                "day_string": "Monday"
+            },
+            {
+                "open_at": "08:00",
+                "close_at": "18:00",
+                "day": 2,
+                "day_string": "Tuesday"
+            }
+        ],
+        "is_main": false,
+        "community": {
+            "id": 1
+        },
+        "region": {
+            "id": 1
+        }
+    }
+}

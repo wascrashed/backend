@@ -1,0 +1,53 @@
+{
+    "success": true,
+    "message": "Вакансия успешно создана",
+    "data": {
+        "id": 6,
+        "title": "Test",
+        "description": "Test desc",
+        "salary": 1550,
+        "category": {
+            "id": 5,
+            "name": "Mrs."
+        },
+        "tags": [
+            {
+                "id": 1,
+                "name": {
+                    "en": "tag-1"
+                },
+                "slug": {
+                    "en": "tag-1"
+                },
+                "type": null,
+                "order_column": 1,
+                "created_at": "2023-07-13T11:34:49.000000Z",
+                "updated_at": "2023-07-13T11:34:49.000000Z",
+                "pivot": {
+                    "taggable_id": 6,
+                    "tag_id": 1,
+                    "taggable_type": "App\\Tbuy\\Vacancy\\Models\\Vacancy"
+                }
+            },
+            {
+                "id": 2,
+                "name": {
+                    "en": "tag-2"
+                },
+                "slug": {
+                    "en": "tag-2"
+                },
+                "type": null,
+                "order_column": 2,
+                "created_at": "2023-07-13T11:34:49.000000Z",
+                "updated_at": "2023-07-13T11:34:49.000000Z",
+                "pivot": {
+                    "taggable_id": 6,
+                    "tag_id": 2,
+                    "taggable_type": "App\\Tbuy\\Vacancy\\Models\\Vacancy"
+                }
+            }
+        ],
+        "images": []
+    }
+}
